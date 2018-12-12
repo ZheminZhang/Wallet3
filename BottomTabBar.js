@@ -6,6 +6,10 @@ import ListSmartContract from './lib/ListSmartContractComponent'
 import LoadSmartContract from './lib/LoadSmartContractComponent'
 import TabNavigator from "react-native-tab-navigator";
 import Icon from 'react-native-vector-icons/Ionicons';
+import QRScanner from './lib/QRScannerComponent'
+import Chat from './lib/ChatComponent'
+import JMessageTest from './JMessageTestComponent'
+
 import React, { Component } from 'react';
 import {
   AppRegistry,
@@ -79,6 +83,28 @@ export default class BottomTabBar extends Component {
             onPress={() => this.setState({ selectIndex: 3 })}>
             <View style={{flex:1}}>
                 <LoadSmartContract ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
+            </View>
+        </TabNavigator.Item>
+        <TabNavigator.Item
+            title="扫一扫"
+            titleStyle={styles.tabText}
+            selected={4==this.state.selectIndex}
+            renderIcon={() => <Image source={this.state.shoppingNormal} style={styles.icon}/>}
+            renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
+            onPress={() => this.setState({ selectIndex: 4 })}>
+            <View style={{flex:1}}>
+                <QRScanner/>
+            </View>
+        </TabNavigator.Item>
+        <TabNavigator.Item
+            title="聊天"
+            titleStyle={styles.tabText}
+            selected={5==this.state.selectIndex}
+            renderIcon={() => <Image source={this.state.shoppingNormal} style={styles.icon}/>}
+            renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
+            onPress={() => this.setState({ selectIndex: 5 })}>
+            <View style={{flex:1}}>
+                <JMessageTest/>
             </View>
         </TabNavigator.Item>
       </TabNavigator>

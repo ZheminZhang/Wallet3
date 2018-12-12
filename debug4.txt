@@ -1,0 +1,1187 @@
+2018-12-07 15:17:17.034 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:17.110 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:17.123 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.onJSBundleLoadedFromServer()
+2018-12-07 15:17:17.123 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.recreateReactContextInBackground()
+2018-12-07 15:17:17.123 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.runCreateReactContextOnNewThread()
+2018-12-07 15:17:17.123 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.tearDownReactContext()
+2018-12-07 15:17:17.123 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:17:17.124 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:17:17.128 19447-19447/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() start
+2018-12-07 15:17:17.129 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:17:17.132 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:17.136 19447-23818/com.wallet3 D/ReactNative: ReactInstanceManager.createReactContext()
+2018-12-07 15:17:17.144 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupViewManager
+2018-12-07 15:17:17.145 19447-23668/com.wallet3 I/JPushModule: onCatalystInstanceDestroy
+2018-12-07 15:17:17.145 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupShadowNode
+2018-12-07 15:17:17.147 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeViewManager
+2018-12-07 15:17:17.148 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeShadowNode
+2018-12-07 15:17:17.150 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextViewManager
+2018-12-07 15:17:17.152 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextShadowNode
+2018-12-07 15:17:17.156 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.checkbox.ReactCheckBoxManager
+2018-12-07 15:17:17.166 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+2018-12-07 15:17:17.175 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDialogPickerManager
+2018-12-07 15:17:17.177 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.drawer.ReactDrawerLayoutManager
+2018-12-07 15:17:17.178 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDropdownPickerManager
+2018-12-07 15:17:17.178 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollViewManager
+2018-12-07 15:17:17.179 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollContainerViewManager
+2018-12-07 15:17:17.179 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ReactProgressBarViewManager
+2018-12-07 15:17:17.182 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ProgressBarShadowNode
+2018-12-07 15:17:17.183 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactScrollViewManager
+2018-12-07 15:17:17.184 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager
+2018-12-07 15:17:17.184 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager$ReactSliderShadowNode
+2018-12-07 15:17:17.185 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager
+2018-12-07 15:17:17.185 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager$ReactSwitchShadowNode
+2018-12-07 15:17:17.186 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.toolbar.ReactToolbarManager
+2018-12-07 15:17:17.186 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.webview.ReactWebViewManager
+2018-12-07 15:17:17.188 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.swiperefresh.SwipeRefreshLayoutManager
+2018-12-07 15:17:17.188 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewManager
+2018-12-07 15:17:17.189 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewShadowNode
+2018-12-07 15:17:17.190 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager
+2018-12-07 15:17:17.190 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageShadowNode
+2018-12-07 15:17:17.190 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.image.ReactImageManager
+2018-12-07 15:17:17.192 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ReactModalHostManager
+2018-12-07 15:17:17.194 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ModalHostShadowNode
+2018-12-07 15:17:17.195 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextManager
+2018-12-07 15:17:17.196 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextShadowNode
+2018-12-07 15:17:17.196 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputManager
+2018-12-07 15:17:17.202 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputShadowNode
+2018-12-07 15:17:17.204 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextViewManager
+2018-12-07 15:17:17.207 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextShadowNode
+2018-12-07 15:17:17.207 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.view.ReactViewManager
+2018-12-07 15:17:17.209 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.viewpager.ReactViewPagerManager
+2018-12-07 15:17:17.209 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextViewManager
+2018-12-07 15:17:17.210 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextShadowNode
+2018-12-07 15:17:17.211 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class io.jchat.android.BubbleMsgManager
+2018-12-07 15:17:17.214 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.lwansbrough.RCTCamera.RCTCameraViewManager
+2018-12-07 15:17:17.216 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactMsgListManager
+2018-12-07 15:17:17.218 19447-23818/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactChatInputManager
+2018-12-07 15:17:17.222 19447-23818/com.wallet3 V/JSRealm: setDefaultRealmFileDirectory
+2018-12-07 15:17:17.222 19447-23818/com.wallet3 D/JSRealm: Absolute path: /data/data/com.wallet3/files
+2018-12-07 15:17:17.223 19447-23818/com.wallet3 D/ReactNative: Initializing React Xplat Bridge.
+2018-12-07 15:17:17.227 19447-23818/com.wallet3 D/ReactNative: Initializing React Xplat Bridge before initializeBridge
+2018-12-07 15:17:17.237 19447-23818/com.wallet3 D/ReactNative: Initializing React Xplat Bridge after initializeBridge
+2018-12-07 15:17:17.237 19447-23818/com.wallet3 D/ReactNative: CatalystInstanceImpl.runJSBundle()
+2018-12-07 15:17:17.238 19447-23823/com.wallet3 D/ReactNative: ReactInstanceManager.setupReactContext()
+2018-12-07 15:17:17.238 19447-23823/com.wallet3 D/ReactNative: CatalystInstanceImpl.initialize()
+2018-12-07 15:17:17.239 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:17:17.240 19447-23823/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:17:17.244 19447-23823/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:17:17.244 19447-23823/com.wallet3 D/ReactNative: ReactInstanceManager.attachRootViewToInstance()
+2018-12-07 15:17:17.356 19447-23820/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() end
+2018-12-07 15:17:17.915 19447-23822/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:17:17.938 19447-23822/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 1 line
+2018-12-07 15:17:17.941 19447-23822/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:17:17.998 19447-23822/com.wallet3 W/ReactNativeJS: TabNavigator is deprecated. Please use the createBottomTabNavigator or createMaterialTopTabNavigator instead.
+2018-12-07 15:17:18.013 19447-23822/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:17:18.022 19447-23822/com.wallet3 I/ReactNativeJS: Running application "Wallet3" with appParams: {"rootTag":21}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+2018-12-07 15:17:18.396 19447-23822/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:17:18.425 19447-23822/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 7 lines
+2018-12-07 15:17:18.428 19447-23822/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:17:21.168 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5788 bytes, containing 1 windows, 20 views
+2018-12-07 15:17:23.996 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5804 bytes, containing 1 windows, 20 views
+2018-12-07 15:17:27.242 19447-23823/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:17:27.303 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:28.752 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:17:28.760 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:28.762 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb88e7d00 (RippleDrawable) with handle 0xca70d280
+2018-12-07 15:17:28.791 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:33.971 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5820 bytes, containing 1 windows, 20 views
+2018-12-07 15:17:37.005 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5836 bytes, containing 1 windows, 20 views
+2018-12-07 15:17:43.486 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:17:43.489 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:43.490 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15324, sid:44007, juid:20163561480
+2018-12-07 15:17:43.490 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:43.599 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:43.600 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:17:43.600 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@1633003
+2018-12-07 15:17:43.601 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:17:43.601 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@1633003
+2018-12-07 15:17:43.601 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:17:43.601 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@1633003
+2018-12-07 15:17:43.602 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:17:43.603 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:43.603 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15326, sid:44007, juid:20163561480
+2018-12-07 15:17:43.603 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:43.604 19447-20471/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:17:43.605 19447-20471/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 15:17:43.605 19447-20471/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 15:17:43.605 19447-20471/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 15:17:43.626 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 15:17:43.787 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:43.836 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:43.852 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:43.852 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:43.853 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 15:17:43.853 19447-20471/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 15:17:43.860 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:45.323 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 1 line
+2018-12-07 15:17:45.805 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:45.806 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xbaecba00 (RippleDrawable) with handle 0xca5a1fa0
+2018-12-07 15:17:45.839 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:48.336 19447-23823/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:17:48.341 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:17:48.342 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:48.342 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15328, sid:44007, juid:20163561480
+2018-12-07 15:17:48.342 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:48.567 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:48.571 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:17:48.575 19447-23868/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:17:48.687 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:48.725 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:50.239 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:50.246 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:50.248 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb9823500 (RippleDrawable) with handle 0xb9957770
+2018-12-07 15:17:50.273 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:50.582 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:17:50.584 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:50.584 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15330, sid:44007, juid:20163561480
+2018-12-07 15:17:50.584 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:50.687 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:50.687 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:17:50.779 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:50.780 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:17:50.780 19447-19556/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 15:17:50.780 19447-19556/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@ab58c46
+2018-12-07 15:17:50.781 19447-19556/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:17:50.781 19447-19556/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:17:50.788 19447-23887/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 1 old list totalCount = 0
+2018-12-07 15:17:50.790 19447-23887/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = -100
+2018-12-07 15:17:50.790 19447-23887/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544166970787
+2018-12-07 15:17:50.791 19447-23887/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:17:50.791 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:17:50.792 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:50.792 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15332, sid:44007, juid:20163561480
+2018-12-07 15:17:50.793 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:51.356 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:17:51.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:17:51.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15334, sid:44007, juid:20163561480
+2018-12-07 15:17:51.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:17:52.098 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:17:52.099 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:17:52.104 19447-23893/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195541598 cTimeMS = 1544167072386
+2018-12-07 15:17:52.150 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:52.201 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:53.411 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:53.420 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:17:53.422 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb96d7700 (RippleDrawable) with handle 0xb96de010
+2018-12-07 15:17:53.481 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.401 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:18:20.403 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:20.403 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15336, sid:44007, juid:20163561480
+2018-12-07 15:18:20.403 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:20.512 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:20.513 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:18:20.513 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@3f61aa9
+2018-12-07 15:18:20.513 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:18:20.513 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@3f61aa9
+2018-12-07 15:18:20.514 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:18:20.514 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@3f61aa9
+2018-12-07 15:18:20.515 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:18:20.516 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:20.516 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15338, sid:44007, juid:20163561480
+2018-12-07 15:18:20.516 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:20.518 19447-19476/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:18:20.519 19447-19476/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 15:18:20.520 19447-19476/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 15:18:20.520 19447-19476/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 15:18:20.554 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 15:18:20.589 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.594 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.653 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:18:20.653 19447-19473/com.wallet3 W/SQLiteConnectionPool: A SQLiteConnection object for database '/data/user/0/com.wallet3/databases/199400809jpushim.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.
+2018-12-07 15:18:20.653 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:18:20.654 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:18:20.713 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:18:20.738 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.770 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.777 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.795 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:20.803 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:20.804 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 15:18:20.804 19447-19556/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 15:18:20.833 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:22.345 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:22.623 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:22.624 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xc8c93e80 (RippleDrawable) with handle 0xb96def20
+2018-12-07 15:18:22.646 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:26.817 19447-23823/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:18:26.817 19447-23823/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'cn.jpush.im.android.api.model.Message cn.jpush.im.android.api.model.Conversation.createSendMessage(cn.jpush.im.android.api.content.MessageContent)' on a null object reference
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.createSendMessage(JMessageModule.java:365)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:18:26.818 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:18:26.819 19447-23823/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:18:26.819 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:18:26.819 19447-23823/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:18:26.839 19447-23823/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err: com.facebook.react.bridge.NoSuchKeyException: id
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getNullableValue(ReadableNativeMap.java:128)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getString(ReadableNativeMap.java:168)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.sendMessage(JMessageModule.java:378)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:18:26.840 19447-23823/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:18:26.841 19447-23823/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:18:26.841 19447-23823/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:18:26.951 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:26.958 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:26.984 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:28.258 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 5 lines
+2018-12-07 15:18:28.266 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:28.268 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e46680 (RippleDrawable) with handle 0xc9fbfaa0
+2018-12-07 15:18:28.295 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:30.145 19447-23823/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:18:30.150 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:18:30.151 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:30.151 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15340, sid:44007, juid:20163561480
+2018-12-07 15:18:30.151 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:30.319 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:30.326 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:18:30.330 19447-23933/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:18:30.452 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:30.487 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:31.819 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:31.828 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:31.829 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb9879f80 (RippleDrawable) with handle 0xca478a90
+2018-12-07 15:18:31.857 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:32.334 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:18:32.336 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:32.336 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15342, sid:44007, juid:20163561480
+2018-12-07 15:18:32.336 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:32.443 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:32.444 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:18:32.521 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:32.523 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:18:32.523 19447-19556/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 15:18:32.523 19447-19556/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@473e367
+2018-12-07 15:18:32.524 19447-19556/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:18:32.524 19447-19556/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:18:32.528 19447-23949/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 1 old list totalCount = 0
+2018-12-07 15:18:32.529 19447-23949/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = -100
+2018-12-07 15:18:32.530 19447-23949/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544167072386
+2018-12-07 15:18:32.537 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:18:32.537 19447-23949/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:18:32.538 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:32.538 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15344, sid:44007, juid:20163561480
+2018-12-07 15:18:32.538 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:37.467 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:18:37.468 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:37.469 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15346, sid:44007, juid:20163561480
+2018-12-07 15:18:37.471 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:37.581 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:37.582 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:18:37.586 19447-23956/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2193626659 cTimeMS = 1544167118492
+2018-12-07 15:18:37.642 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:37.652 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:18:37.665 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:37.879 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:18:37.879 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:18:38.983 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:38.991 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:38.992 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e33a80 (RippleDrawable) with handle 0xca56df10
+2018-12-07 15:18:39.017 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:39.835 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:18:39.836 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:39.836 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15348, sid:44007, juid:20163561480
+2018-12-07 15:18:39.836 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:39.947 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:39.947 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:18:39.951 19447-23964/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2193626899 cTimeMS = 1544167120865
+2018-12-07 15:18:40.025 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:41.333 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 4 lines
+2018-12-07 15:18:41.341 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:41.342 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e39580 (RippleDrawable) with handle 0xca5a1aa0
+2018-12-07 15:18:41.370 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:45.760 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:18:45.762 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:45.762 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15350, sid:44007, juid:20163561480
+2018-12-07 15:18:45.763 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:45.903 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:45.903 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:18:45.907 19447-23974/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195547444 cTimeMS = 1544167126789
+2018-12-07 15:18:45.954 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:47.322 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:18:47.331 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:47.333 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb94e4980 (RippleDrawable) with handle 0xb9bbdcd0
+2018-12-07 15:18:47.358 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:59.349 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:18:59.351 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:59.351 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15352, sid:44007, juid:20163561480
+2018-12-07 15:18:59.351 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:59.461 19447-19556/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:59.461 19447-19556/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:18:59.461 19447-19556/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@6b90959
+2018-12-07 15:18:59.462 19447-19556/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:18:59.462 19447-19556/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@6b90959
+2018-12-07 15:18:59.462 19447-19556/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:18:59.462 19447-19556/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@6b90959
+2018-12-07 15:18:59.463 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:18:59.464 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:18:59.464 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15354, sid:44007, juid:20163561480
+2018-12-07 15:18:59.464 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:18:59.465 19447-19556/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:18:59.465 19447-19556/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 15:18:59.466 19447-19556/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 15:18:59.466 19447-19556/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 15:18:59.478 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 15:18:59.556 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:59.562 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:59.653 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:59.674 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 1 line
+2018-12-07 15:18:59.702 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:18:59.885 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:18:59.885 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 15:18:59.886 19447-19476/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 15:19:00.949 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:00.957 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:00.960 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb74d5300 (RippleDrawable) with handle 0xc8ca4850
+2018-12-07 15:19:00.984 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:23.067 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:23.146 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:23.153 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.onJSBundleLoadedFromServer()
+2018-12-07 15:19:23.154 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.recreateReactContextInBackground()
+2018-12-07 15:19:23.154 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.runCreateReactContextOnNewThread()
+2018-12-07 15:19:23.154 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.tearDownReactContext()
+2018-12-07 15:19:23.154 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:19:23.154 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:19:23.158 19447-19447/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() start
+2018-12-07 15:19:23.158 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:19:23.163 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:23.164 19447-23823/com.wallet3 I/JPushModule: onCatalystInstanceDestroy
+2018-12-07 15:19:23.164 19447-24012/com.wallet3 D/ReactNative: ReactInstanceManager.createReactContext()
+2018-12-07 15:19:23.168 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupViewManager
+2018-12-07 15:19:23.168 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupShadowNode
+2018-12-07 15:19:23.168 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeViewManager
+2018-12-07 15:19:23.169 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeShadowNode
+2018-12-07 15:19:23.169 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextViewManager
+2018-12-07 15:19:23.169 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextShadowNode
+2018-12-07 15:19:23.170 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.checkbox.ReactCheckBoxManager
+2018-12-07 15:19:23.170 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+2018-12-07 15:19:23.171 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDialogPickerManager
+2018-12-07 15:19:23.172 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.drawer.ReactDrawerLayoutManager
+2018-12-07 15:19:23.172 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDropdownPickerManager
+2018-12-07 15:19:23.172 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollViewManager
+2018-12-07 15:19:23.173 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollContainerViewManager
+2018-12-07 15:19:23.173 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ReactProgressBarViewManager
+2018-12-07 15:19:23.173 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ProgressBarShadowNode
+2018-12-07 15:19:23.173 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactScrollViewManager
+2018-12-07 15:19:23.175 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager
+2018-12-07 15:19:23.176 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager$ReactSliderShadowNode
+2018-12-07 15:19:23.177 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager
+2018-12-07 15:19:23.178 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager$ReactSwitchShadowNode
+2018-12-07 15:19:23.178 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.toolbar.ReactToolbarManager
+2018-12-07 15:19:23.181 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.webview.ReactWebViewManager
+2018-12-07 15:19:23.182 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.swiperefresh.SwipeRefreshLayoutManager
+2018-12-07 15:19:23.183 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewManager
+2018-12-07 15:19:23.183 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewShadowNode
+2018-12-07 15:19:23.184 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager
+2018-12-07 15:19:23.184 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageShadowNode
+2018-12-07 15:19:23.184 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.image.ReactImageManager
+2018-12-07 15:19:23.185 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ReactModalHostManager
+2018-12-07 15:19:23.185 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ModalHostShadowNode
+2018-12-07 15:19:23.186 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextManager
+2018-12-07 15:19:23.186 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextShadowNode
+2018-12-07 15:19:23.186 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputManager
+2018-12-07 15:19:23.193 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputShadowNode
+2018-12-07 15:19:23.197 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextViewManager
+2018-12-07 15:19:23.199 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextShadowNode
+2018-12-07 15:19:23.200 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.view.ReactViewManager
+2018-12-07 15:19:23.201 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.viewpager.ReactViewPagerManager
+2018-12-07 15:19:23.202 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextViewManager
+2018-12-07 15:19:23.202 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextShadowNode
+2018-12-07 15:19:23.202 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class io.jchat.android.BubbleMsgManager
+2018-12-07 15:19:23.202 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.lwansbrough.RCTCamera.RCTCameraViewManager
+2018-12-07 15:19:23.203 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactMsgListManager
+2018-12-07 15:19:23.208 19447-24012/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactChatInputManager
+2018-12-07 15:19:23.214 19447-24012/com.wallet3 V/JSRealm: setDefaultRealmFileDirectory
+2018-12-07 15:19:23.214 19447-24012/com.wallet3 D/JSRealm: Absolute path: /data/data/com.wallet3/files
+2018-12-07 15:19:23.215 19447-24012/com.wallet3 D/ReactNative: Initializing React Xplat Bridge.
+2018-12-07 15:19:23.224 19447-24012/com.wallet3 D/ReactNative: Initializing React Xplat Bridge before initializeBridge
+2018-12-07 15:19:23.264 19447-24012/com.wallet3 D/ReactNative: Initializing React Xplat Bridge after initializeBridge
+2018-12-07 15:19:23.265 19447-24012/com.wallet3 D/ReactNative: CatalystInstanceImpl.runJSBundle()
+2018-12-07 15:19:23.265 19447-24016/com.wallet3 D/ReactNative: ReactInstanceManager.setupReactContext()
+2018-12-07 15:19:23.265 19447-24016/com.wallet3 D/ReactNative: CatalystInstanceImpl.initialize()
+2018-12-07 15:19:23.266 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:19:23.267 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:19:23.267 19447-24016/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:19:23.270 19447-24016/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:19:23.270 19447-24016/com.wallet3 D/ReactNative: ReactInstanceManager.attachRootViewToInstance()
+2018-12-07 15:19:23.511 19447-24014/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() end
+2018-12-07 15:19:24.043 19447-24015/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:24.066 19447-24015/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 1 line
+2018-12-07 15:19:24.068 19447-24015/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:24.126 19447-24015/com.wallet3 W/ReactNativeJS: TabNavigator is deprecated. Please use the createBottomTabNavigator or createMaterialTopTabNavigator instead.
+2018-12-07 15:19:24.141 19447-24015/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:24.156 19447-24015/com.wallet3 I/ReactNativeJS: Running application "Wallet3" with appParams: {"rootTag":31}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+2018-12-07 15:19:24.491 19447-24015/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:19:24.517 19447-24015/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 7 lines
+2018-12-07 15:19:24.523 19447-24015/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:19:41.817 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:41.936 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.onJSBundleLoadedFromServer()
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.recreateReactContextInBackground()
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.runCreateReactContextOnNewThread()
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.tearDownReactContext()
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:19:41.948 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:19:41.951 19447-19447/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() start
+2018-12-07 15:19:41.951 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:19:41.952 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:19:41.952 19447-24016/com.wallet3 I/JPushModule: onCatalystInstanceDestroy
+2018-12-07 15:19:41.953 19447-24037/com.wallet3 D/ReactNative: ReactInstanceManager.createReactContext()
+2018-12-07 15:19:41.954 19447-24011/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() end
+2018-12-07 15:19:41.956 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupViewManager
+2018-12-07 15:19:41.957 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupShadowNode
+2018-12-07 15:19:41.960 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeViewManager
+2018-12-07 15:19:41.961 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeShadowNode
+2018-12-07 15:19:41.962 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextViewManager
+2018-12-07 15:19:41.963 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextShadowNode
+2018-12-07 15:19:41.963 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.checkbox.ReactCheckBoxManager
+2018-12-07 15:19:41.965 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+2018-12-07 15:19:41.966 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDialogPickerManager
+2018-12-07 15:19:41.966 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.drawer.ReactDrawerLayoutManager
+2018-12-07 15:19:41.966 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDropdownPickerManager
+2018-12-07 15:19:41.966 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollViewManager
+2018-12-07 15:19:41.967 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollContainerViewManager
+2018-12-07 15:19:41.967 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ReactProgressBarViewManager
+2018-12-07 15:19:41.967 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ProgressBarShadowNode
+2018-12-07 15:19:41.968 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactScrollViewManager
+2018-12-07 15:19:41.968 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager
+2018-12-07 15:19:41.968 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager$ReactSliderShadowNode
+2018-12-07 15:19:41.970 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager
+2018-12-07 15:19:41.971 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager$ReactSwitchShadowNode
+2018-12-07 15:19:41.971 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.toolbar.ReactToolbarManager
+2018-12-07 15:19:41.971 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.webview.ReactWebViewManager
+2018-12-07 15:19:41.973 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.swiperefresh.SwipeRefreshLayoutManager
+2018-12-07 15:19:41.973 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewManager
+2018-12-07 15:19:41.973 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewShadowNode
+2018-12-07 15:19:41.974 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager
+2018-12-07 15:19:41.974 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageShadowNode
+2018-12-07 15:19:41.974 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.image.ReactImageManager
+2018-12-07 15:19:41.975 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ReactModalHostManager
+2018-12-07 15:19:41.975 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ModalHostShadowNode
+2018-12-07 15:19:41.976 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextManager
+2018-12-07 15:19:41.976 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextShadowNode
+2018-12-07 15:19:41.976 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputManager
+2018-12-07 15:19:41.977 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputShadowNode
+2018-12-07 15:19:41.977 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextViewManager
+2018-12-07 15:19:41.978 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextShadowNode
+2018-12-07 15:19:41.978 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.view.ReactViewManager
+2018-12-07 15:19:41.979 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.viewpager.ReactViewPagerManager
+2018-12-07 15:19:41.979 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextViewManager
+2018-12-07 15:19:41.980 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextShadowNode
+2018-12-07 15:19:41.980 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class io.jchat.android.BubbleMsgManager
+2018-12-07 15:19:41.980 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.lwansbrough.RCTCamera.RCTCameraViewManager
+2018-12-07 15:19:41.980 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactMsgListManager
+2018-12-07 15:19:41.981 19447-24037/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactChatInputManager
+2018-12-07 15:19:41.984 19447-24037/com.wallet3 V/JSRealm: setDefaultRealmFileDirectory
+2018-12-07 15:19:41.984 19447-24037/com.wallet3 D/JSRealm: Absolute path: /data/data/com.wallet3/files
+2018-12-07 15:19:41.985 19447-24037/com.wallet3 D/ReactNative: Initializing React Xplat Bridge.
+2018-12-07 15:19:41.986 19447-24037/com.wallet3 D/ReactNative: Initializing React Xplat Bridge before initializeBridge
+2018-12-07 15:19:42.056 19447-24037/com.wallet3 D/ReactNative: Initializing React Xplat Bridge after initializeBridge
+2018-12-07 15:19:42.056 19447-24037/com.wallet3 D/ReactNative: CatalystInstanceImpl.runJSBundle()
+2018-12-07 15:19:42.057 19447-24040/com.wallet3 D/ReactNative: ReactInstanceManager.setupReactContext()
+2018-12-07 15:19:42.057 19447-24040/com.wallet3 D/ReactNative: CatalystInstanceImpl.initialize()
+2018-12-07 15:19:42.058 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:19:42.058 19447-24040/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:19:42.068 19447-24040/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:19:42.068 19447-24040/com.wallet3 D/ReactNative: ReactInstanceManager.attachRootViewToInstance()
+2018-12-07 15:19:42.633 19447-24039/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:42.656 19447-24039/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 1 line
+2018-12-07 15:19:42.659 19447-24039/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:42.717 19447-24039/com.wallet3 W/ReactNativeJS: TabNavigator is deprecated. Please use the createBottomTabNavigator or createMaterialTopTabNavigator instead.
+2018-12-07 15:19:42.733 19447-24039/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 15:19:42.745 19447-24039/com.wallet3 I/ReactNativeJS: Running application "Wallet3" with appParams: {"rootTag":41}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+2018-12-07 15:19:43.082 19447-24039/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:19:43.106 19447-24039/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 7 lines
+2018-12-07 15:19:43.110 19447-24039/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 15:19:45.205 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5788 bytes, containing 1 windows, 20 views
+2018-12-07 15:19:48.575 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5804 bytes, containing 1 windows, 20 views
+2018-12-07 15:19:52.668 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5820 bytes, containing 1 windows, 20 views
+2018-12-07 15:19:56.406 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5836 bytes, containing 1 windows, 20 views
+2018-12-07 15:20:04.770 19447-24040/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:20:04.770 19447-24040/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'cn.jpush.im.android.api.model.Message cn.jpush.im.android.api.model.Conversation.createSendMessage(cn.jpush.im.android.api.content.MessageContent)' on a null object reference
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.createSendMessage(JMessageModule.java:365)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:20:04.771 19447-24040/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:20:04.772 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:20:04.772 19447-24040/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:20:04.792 19447-24040/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:20:04.792 19447-24040/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:20:04.792 19447-24040/com.wallet3 W/System.err: com.facebook.react.bridge.NoSuchKeyException: id
+2018-12-07 15:20:04.792 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getNullableValue(ReadableNativeMap.java:128)
+2018-12-07 15:20:04.792 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getString(ReadableNativeMap.java:168)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.sendMessage(JMessageModule.java:378)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:20:04.793 19447-24040/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:20:04.854 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:04.858 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:07.210 19447-24040/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:20:07.214 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:20:07.215 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:07.215 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15356, sid:44007, juid:20163561480
+2018-12-07 15:20:07.215 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:07.486 19447-24027/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:07.492 19447-24027/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:20:07.497 19447-24076/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:20:07.572 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:07.616 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 1 line
+2018-12-07 15:20:09.147 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:09.211 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:09.212 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb83d8800 (RippleDrawable) with handle 0xe129f230
+2018-12-07 15:20:09.238 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:09.499 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:20:09.502 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:09.503 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15358, sid:44007, juid:20163561480
+2018-12-07 15:20:09.503 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:09.612 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:09.612 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:20:09.652 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:09.653 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:20:09.653 19447-20471/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 15:20:09.653 19447-20471/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@a04521
+2018-12-07 15:20:09.653 19447-20471/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:20:09.654 19447-20471/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:20:09.662 19447-24090/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 3 old list totalCount = 0
+2018-12-07 15:20:09.665 19447-24090/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = -100
+2018-12-07 15:20:09.665 19447-24090/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544167126789
+2018-12-07 15:20:09.666 19447-24090/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:20:09.666 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:20:09.667 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:09.667 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15360, sid:44007, juid:20163561480
+2018-12-07 15:20:09.667 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:11.087 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:20:11.087 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:11.088 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15362, sid:44007, juid:20163561480
+2018-12-07 15:20:11.088 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:11.257 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:11.258 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:20:11.264 19447-24099/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195557114 cTimeMS = 1544167212112
+2018-12-07 15:20:11.314 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:11.377 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:20:11.382 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:12.623 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:12.633 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:12.635 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xc8c93400 (RippleDrawable) with handle 0xc9fcffe0
+2018-12-07 15:20:12.722 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:19.102 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:20:19.103 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:19.104 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15364, sid:44007, juid:20163561480
+2018-12-07 15:20:19.104 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:19.277 19447-24027/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:19.277 19447-24027/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:20:19.282 19447-24107/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2193638067 cTimeMS = 1544167220139
+2018-12-07 15:20:19.334 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:20.713 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 4 lines
+2018-12-07 15:20:20.720 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:20.722 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e48600 (RippleDrawable) with handle 0xca478500
+2018-12-07 15:20:20.745 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:26.530 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:20:26.532 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:26.532 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15366, sid:44007, juid:20163561480
+2018-12-07 15:20:26.532 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:26.645 19447-24027/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:26.646 19447-24027/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:20:26.649 19447-24118/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2193638873 cTimeMS = 1544167227557
+2018-12-07 15:20:26.691 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:27.907 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 4 lines
+2018-12-07 15:20:27.914 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:27.916 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb96d9680 (RippleDrawable) with handle 0xca56d740
+2018-12-07 15:20:27.942 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:34.427 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:20:34.428 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:34.428 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15368, sid:44007, juid:20163561480
+2018-12-07 15:20:34.428 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:34.541 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:34.541 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:20:34.551 19447-24130/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195559674 cTimeMS = 1544167235451
+2018-12-07 15:20:34.595 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:35.924 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:20:35.933 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:35.934 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb74d4180 (RippleDrawable) with handle 0xca5a18e0
+2018-12-07 15:20:35.961 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:49.386 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:20:49.387 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:49.387 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15370, sid:44007, juid:20163561480
+2018-12-07 15:20:49.387 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:49.596 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:49.597 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:20:49.597 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@59b6023
+2018-12-07 15:20:49.597 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:20:49.597 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@59b6023
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@59b6023
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@59b6023
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:20:49.598 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@59b6023
+2018-12-07 15:20:49.600 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:20:49.601 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:20:49.601 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15372, sid:44007, juid:20163561480
+2018-12-07 15:20:49.601 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:20:49.602 19447-19476/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:20:49.603 19447-19476/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 15:20:49.604 19447-19476/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 15:20:49.604 19447-19476/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 15:20:49.714 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 15:20:49.727 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:49.764 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:49.770 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 1 line
+2018-12-07 15:20:49.775 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:20:49.989 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:20:49.990 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 15:20:49.990 19447-19478/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 15:20:51.229 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:22:08.344 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:23:27.982 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:23:27.983 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:25:34.929 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:34.931 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7283a80 (RippleDrawable) with handle 0xca751d20
+2018-12-07 15:25:34.944 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:36.090 19447-24040/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:25:36.090 19447-24040/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err: java.lang.NullPointerException: Attempt to invoke virtual method 'cn.jpush.im.android.api.model.Message cn.jpush.im.android.api.model.Conversation.createSendMessage(cn.jpush.im.android.api.content.MessageContent)' on a null object reference
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.createSendMessage(JMessageModule.java:365)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:25:36.091 19447-24040/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:25:36.092 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:25:36.092 19447-24040/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:25:36.108 19447-24040/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [createConversation] have not logged in!
+2018-12-07 15:25:36.108 19447-24040/com.wallet3 W/JIGUANG-JMessage: [ConversationManager] parameter invalid! put to map failed!
+2018-12-07 15:25:36.108 19447-24040/com.wallet3 W/System.err: com.facebook.react.bridge.NoSuchKeyException: id
+2018-12-07 15:25:36.108 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getNullableValue(ReadableNativeMap.java:128)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.ReadableNativeMap.getString(ReadableNativeMap.java:168)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at io.jchat.android.JMessageModule.sendMessage(JMessageModule.java:378)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at java.lang.reflect.Method.invoke(Native Method)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaMethodWrapper.invoke(JavaMethodWrapper.java:372)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.JavaModuleWrapper.invoke(JavaModuleWrapper.java:160)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.NativeRunnable.run(Native Method)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.handleCallback(Handler.java:873)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at android.os.Handler.dispatchMessage(Handler.java:99)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:29)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at android.os.Looper.loop(Looper.java:193)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpl.java:192)
+2018-12-07 15:25:36.109 19447-24040/com.wallet3 W/System.err:     at java.lang.Thread.run(Thread.java:764)
+2018-12-07 15:25:36.201 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:36.208 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:39.166 19447-24040/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:25:39.172 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:25:39.172 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:25:39.172 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15374, sid:44007, juid:20163561480
+2018-12-07 15:25:39.172 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:25:39.573 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:25:39.579 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:25:39.583 19447-24414/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:25:39.631 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:40.962 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 15:25:40.969 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:40.970 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb96d7a80 (RippleDrawable) with handle 0xb8240420
+2018-12-07 15:25:41.001 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:41.586 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:25:41.587 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:25:41.587 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15376, sid:44007, juid:20163561480
+2018-12-07 15:25:41.587 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:25:41.742 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:25:41.743 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:25:41.743 19447-20471/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 15:25:41.743 19447-20471/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@51fd89
+2018-12-07 15:25:41.743 19447-20471/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:25:41.743 19447-20471/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:25:41.752 19447-24431/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 4 old list totalCount = 0
+2018-12-07 15:25:41.753 19447-24431/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = -100
+2018-12-07 15:25:41.753 19447-24431/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544167235451
+2018-12-07 15:25:41.754 19447-24431/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:25:41.754 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:25:41.755 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:25:41.755 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15378, sid:44007, juid:20163561480
+2018-12-07 15:25:41.755 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:25:41.786 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:25:41.787 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:25:42.432 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:25:42.433 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:25:42.433 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15380, sid:44007, juid:20163561480
+2018-12-07 15:25:42.433 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:25:42.634 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:25:42.634 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:25:42.641 19447-24434/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195594058 cTimeMS = 1544167543452
+2018-12-07 15:25:42.753 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:42.798 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:44.209 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:44.217 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:25:44.218 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e44e00 (RippleDrawable) with handle 0xc9fcfd20
+2018-12-07 15:25:44.243 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:07.930 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 15:26:07.932 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:26:07.932 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15382, sid:44007, juid:20163561480
+2018-12-07 15:26:07.932 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:26:08.040 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:26:08.040 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 15:26:08.041 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@cf5e4fe
+2018-12-07 15:26:08.041 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@cf5e4fe
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@cf5e4fe
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@cf5e4fe
+2018-12-07 15:26:08.042 19447-20471/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.LoginStateChanged",{"type":"user_login_status_unexpected"}])
+2018-12-07 15:26:08.043 19447-20471/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@cf5e4fe
+2018-12-07 15:26:08.046 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:26:08.047 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:26:08.047 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15384, sid:44007, juid:20163561480
+2018-12-07 15:26:08.047 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:26:08.050 19447-20471/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:26:08.051 19447-20471/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 15:26:08.051 19447-20471/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 15:26:08.051 19447-20471/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 15:26:08.062 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 15:26:08.097 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:08.102 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:08.123 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:08.148 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 4 lines
+2018-12-07 15:26:08.154 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:08.204 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:26:08.205 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 15:26:08.206 19447-20471/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 15:26:09.665 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:09.972 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:26:09.976 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e49b00 (RippleDrawable) with handle 0xb8efa690
+2018-12-07 15:26:10.024 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:28:05.104 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:28:18.039 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:28:18.039 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:33:08.145 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:33:08.146 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:37:58.249 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:37:58.249 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:42:48.262 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:42:48.263 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:47:38.273 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:47:38.274 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:49:21.875 19447-24040/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 15:49:21.880 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:21.882 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:21.882 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15386, sid:44007, juid:20163561480
+2018-12-07 15:49:21.882 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:22.098 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:22.108 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:49:22.112 19447-25865/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:49:22.238 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:22.285 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:23.812 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:24.117 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:24.121 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:24.121 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15388, sid:44007, juid:20163561480
+2018-12-07 15:49:24.121 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:24.244 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:24.246 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xc8c93e80 (RippleDrawable) with handle 0xc8ca4b70
+2018-12-07 15:49:24.263 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:24.264 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:49:24.275 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:24.304 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:24.304 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:49:24.305 19447-19478/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 15:49:24.305 19447-19478/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@470db3f
+2018-12-07 15:49:24.305 19447-19478/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:49:24.305 19447-19478/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:49:24.310 19447-25886/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 2 old list totalCount = 0
+2018-12-07 15:49:25.005 19447-25893/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.SyncOfflineMessage",{"messageArray":[{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544167558418,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user1","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195595640","id":"30"}],"conversation":{"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"latestMessage":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544167567923,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user1","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"0","id":"29"},"unreadCount":5,"conversationType":"single","title":"user2"}}])
+2018-12-07 15:49:25.016 19447-25893/com.wallet3 I/chatty: uid=10095(com.wallet3) pool-10-thread- identical 2 lines
+2018-12-07 15:49:25.021 19447-25893/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.SyncOfflineMessage",{"messageArray":[{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544167558418,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user1","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195595640","id":"30"}],"conversation":{"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"latestMessage":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544167567923,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user2","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user1","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"0","id":"29"},"unreadCount":5,"conversationType":"single","title":"user2"}}])
+2018-12-07 15:49:25.037 19447-25867/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = 0
+2018-12-07 15:49:25.037 19447-25867/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544167558418
+2018-12-07 15:49:25.038 19447-25867/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:49:25.038 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:25.039 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:25.039 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15390, sid:44007, juid:20163561480
+2018-12-07 15:49:25.039 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:30.632 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:49:30.633 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:49:31.402 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:34.209 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:49:34.209 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:49:34.278 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:42.933 19447-24040/com.wallet3 I/JMessageModule: username: user3 is logging in
+2018-12-07 15:49:42.938 19447-25963/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 15:49:42.940 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:42.941 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:42.942 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15392, sid:44007, juid:20163561480
+2018-12-07 15:49:42.942 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:43.189 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:43.194 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 15:49:43.210 19447-25965/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 15:49:43.298 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:43.340 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:44.853 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:45.180 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:45.181 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7e4a580 (RippleDrawable) with handle 0xc9fcfb60
+2018-12-07 15:49:45.191 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:45.212 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:45.213 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:45.213 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15394, sid:44007, juid:20163561480
+2018-12-07 15:49:45.213 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:45.309 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:45.310 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:49:45.356 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:45.356 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:49:45.356 19447-19478/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 204166822
+2018-12-07 15:49:45.357 19447-19478/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544168955797
+2018-12-07 15:49:45.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:49:45.359 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:45.360 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15396, sid:44007, juid:20163561480
+2018-12-07 15:49:45.360 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:45.398 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:49:45.405 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:0, threadId:1018
+2018-12-07 15:49:45.405 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:14
+2018-12-07 15:49:45.405 19447-19478/com.wallet3 I/JIGUANG-JMessage: [ResponseProcessor]  messageID = 2193830547
+2018-12-07 15:49:45.405 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:49:45.406 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:-10000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:2193830547, sid:44007, juid:20163561480
+2018-12-07 15:49:45.406 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:49:45.431 19447-25982/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=1, messageId=2193830547, createTimeInMillis=1544168955797, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:49:45.442 19447-25982/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}])
+2018-12-07 15:49:45.443 19447-25982/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=1, messageId=2193830547, createTimeInMillis=1544168955797, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:49:45.463 19447-25982/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}])
+2018-12-07 15:49:45.464 19447-25982/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=1, messageId=2193830547, createTimeInMillis=1544168955797, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:49:45.477 19447-25982/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}])
+2018-12-07 15:49:45.477 19447-25982/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=1, messageId=2193830547, createTimeInMillis=1544168955797, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:49:45.480 19447-25982/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}])
+2018-12-07 15:49:45.480 19447-25982/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=1, messageId=2193830547, createTimeInMillis=1544168955797, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:49:45.521 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:45.565 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:45.573 19447-25966/com.wallet3 W/JIGUANG-JMessage: [GetUserInfoTask] parse userInfo failed . server return error.
+2018-12-07 15:49:47.098 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:52.825 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:49:52.827 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7290680 (RippleDrawable) with handle 0xc8cbb780
+2018-12-07 15:49:52.853 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:08.954 19447-19447/com.wallet3 D/JIGUANG-JMessage: [IMReceiver] onReceive - cn.jpush.im.android.action.NOTIFICATION_CLICK_PROXY
+2018-12-07 15:50:08.962 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:50:08.963 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:50:08.963 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15398, sid:44007, juid:20163561480
+2018-12-07 15:50:08.963 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:50:08.973 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:08.973 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:08.975 19447-26027/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}}])
+2018-12-07 15:50:08.978 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:08.982 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:08.984 19447-26027/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}}])
+2018-12-07 15:50:08.992 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:08.993 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:08.996 19447-26027/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}}])
+2018-12-07 15:50:08.997 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:08.997 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.008 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.008 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.009 19447-26027/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544168955797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193830547","id":"1"}}])
+2018-12-07 15:50:09.014 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.018 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.027 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.027 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.037 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.038 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.045 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.045 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:09.057 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.058 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:09.098 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:50:09.099 19447-19473/com.wallet3 W/SQLiteConnectionPool: A SQLiteConnection object for database '/data/user/0/com.wallet3/databases/199400809jpushim.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.
+2018-12-07 15:50:09.099 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:50:09.099 19447-19473/com.wallet3 W/System: A resource failed to call close. 
+2018-12-07 15:50:26.193 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:50:26.195 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:0, threadId:1018
+2018-12-07 15:50:26.195 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:14
+2018-12-07 15:50:26.195 19447-19476/com.wallet3 I/JIGUANG-JMessage: [ResponseProcessor]  messageID = 2193838497
+2018-12-07 15:50:26.195 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:50:26.195 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:-10000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:2193838497, sid:44007, juid:20163561480
+2018-12-07 15:50:26.196 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:50:26.205 19447-26059/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=2, messageId=2193838497, createTimeInMillis=1544169026830, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:50:26.209 19447-26059/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}])
+2018-12-07 15:50:26.210 19447-26059/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=2, messageId=2193838497, createTimeInMillis=1544169026830, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:50:26.212 19447-26059/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}])
+2018-12-07 15:50:26.212 19447-26059/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=2, messageId=2193838497, createTimeInMillis=1544169026830, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:50:26.214 19447-26059/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}])
+2018-12-07 15:50:26.214 19447-26059/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=2, messageId=2193838497, createTimeInMillis=1544169026830, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:50:26.217 19447-26059/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}])
+2018-12-07 15:50:26.217 19447-26059/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=2, messageId=2193838497, createTimeInMillis=1544169026830, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:50:26.262 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:26.312 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:27.840 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:29.826 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:29.828 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb7285300 (RippleDrawable) with handle 0xca5a13a0
+2018-12-07 15:50:29.858 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:31.487 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:31.489 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:31.528 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:35.725 19447-19447/com.wallet3 D/JIGUANG-JMessage: [IMReceiver] onReceive - cn.jpush.im.android.action.NOTIFICATION_CLICK_PROXY
+2018-12-07 15:50:35.733 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:50:35.734 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:50:35.734 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15400, sid:44007, juid:20163561480
+2018-12-07 15:50:35.734 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:50:35.746 19447-26095/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}}])
+2018-12-07 15:50:35.772 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.773 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.775 19447-26095/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}}])
+2018-12-07 15:50:35.787 19447-26095/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}}])
+2018-12-07 15:50:35.804 19447-26095/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169026830,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193838497","id":"2"}}])
+2018-12-07 15:50:35.833 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.833 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.838 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:50:35.838 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.839 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.849 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.855 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.861 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.862 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.870 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:50:35.895 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.896 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.903 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.904 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.912 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.913 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:35.918 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:50:35.918 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:35.919 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:50:49.905 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:49.908 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:50:49.951 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:51:02.688 19447-19555/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:51:02.690 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:0, threadId:1018
+2018-12-07 15:51:02.690 19447-19555/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:14
+2018-12-07 15:51:02.690 19447-19555/com.wallet3 I/JIGUANG-JMessage: [ResponseProcessor]  messageID = 2193842573
+2018-12-07 15:51:02.691 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:51:02.691 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:-10000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:2193842573, sid:44007, juid:20163561480
+2018-12-07 15:51:02.691 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:51:02.698 19447-26138/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=3, messageId=2193842573, createTimeInMillis=1544169063359, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:51:02.702 19447-26138/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}])
+2018-12-07 15:51:02.702 19447-26138/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=3, messageId=2193842573, createTimeInMillis=1544169063359, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:51:02.705 19447-26138/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}])
+2018-12-07 15:51:02.705 19447-26138/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=3, messageId=2193842573, createTimeInMillis=1544169063359, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:51:02.707 19447-26138/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}])
+2018-12-07 15:51:02.708 19447-26138/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=3, messageId=2193842573, createTimeInMillis=1544169063359, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:51:02.710 19447-26138/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ReceiveMsgEvent",{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}])
+2018-12-07 15:51:02.710 19447-26138/com.wallet3 D/JMessageModule: 收到消息：msg = Message{_id=3, messageId=2193842573, createTimeInMillis=1544169063359, direct=receive, status=receive_success, content={"text":"hello","extras":{}}, version=1, fromName='null', contentType=text, contentTypesString='text', targetType=single, targetID='zhangzhemin', targetName='null', fromType='admin', atList=null, fromID=zhangzhemin, notification=null, isSetFromName=0, suiMTime=1544168936, haveRead=0, unreceipt cnt=0, unreceipt mtime=0}
+2018-12-07 15:51:08.911 19447-19447/com.wallet3 D/JIGUANG-JMessage: [IMReceiver] onReceive - cn.jpush.im.android.action.NOTIFICATION_CLICK_PROXY
+2018-12-07 15:51:08.915 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:51:08.916 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:51:08.916 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15402, sid:44007, juid:20163561480
+2018-12-07 15:51:08.916 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:51:08.950 19447-26162/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}}])
+2018-12-07 15:51:08.982 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:08.983 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:08.986 19447-26162/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}}])
+2018-12-07 15:51:08.998 19447-26162/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}}])
+2018-12-07 15:51:08.998 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:08.999 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.011 19447-26162/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.ClickMessageNotification",{"message":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544169063359,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2193842573","id":"3"}}])
+2018-12-07 15:51:09.012 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 15:51:09.012 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.013 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.069 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.070 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.082 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.083 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.089 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.090 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.098 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.102 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.109 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.109 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 15:51:09.119 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.120 19447-19447/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 15:51:09.129 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 15:52:28.380 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:52:28.381 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:54:45.215 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:54:45.217 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:54:45.217 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15404, sid:44007, juid:20163561480
+2018-12-07 15:54:45.217 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:54:45.322 19447-26194/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:54:45.323 19447-26194/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 15:54:45.364 19447-26194/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:54:45.365 19447-26194/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 15:54:45.365 19447-26194/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 204166822
+2018-12-07 15:54:45.365 19447-26194/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@3fe4b66
+2018-12-07 15:54:45.365 19447-26194/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 15:54:45.366 19447-26194/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 15:54:45.370 19447-26392/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 204166822_204166888 new list totalCount = 2 old list totalCount = 0
+2018-12-07 15:54:45.370 19447-26392/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = -100
+2018-12-07 15:54:45.370 19447-26392/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544169063359
+2018-12-07 15:54:45.371 19447-26392/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 15:54:45.371 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:54:45.372 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:54:45.372 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15406, sid:44007, juid:20163561480
+2018-12-07 15:54:45.372 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:57:18.488 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:57:18.489 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 15:59:45.218 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 15:59:45.221 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 15:59:45.221 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15408, sid:44007, juid:20163561480
+2018-12-07 15:59:45.221 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 15:59:45.328 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 15:59:45.329 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 16:02:08.582 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:02:08.583 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:04:45.222 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 16:04:45.224 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 16:04:45.224 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15410, sid:44007, juid:20163561480
+2018-12-07 16:04:45.224 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 16:04:45.375 19447-19555/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 16:04:45.376 19447-19555/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 16:06:58.631 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:06:58.631 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:09:45.231 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 16:09:45.232 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 16:09:45.232 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15412, sid:44007, juid:20163561480
+2018-12-07 16:09:45.232 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 16:09:45.328 19447-19478/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 16:09:45.328 19447-19478/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 16:11:48.730 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:11:48.731 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:14:45.233 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 16:14:45.234 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 16:14:45.234 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15414, sid:44007, juid:20163561480
+2018-12-07 16:14:45.234 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 16:14:45.338 19447-19555/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 16:14:45.339 19447-19555/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 16:15:40.354 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 16:15:40.463 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 16:15:40.466 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.onJSBundleLoadedFromServer()
+2018-12-07 16:15:40.467 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.recreateReactContextInBackground()
+2018-12-07 16:15:40.467 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.runCreateReactContextOnNewThread()
+2018-12-07 16:15:40.467 19447-19447/com.wallet3 D/ReactNative: ReactInstanceManager.tearDownReactContext()
+2018-12-07 16:15:40.467 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 16:15:40.467 19447-19447/com.wallet3 D/JPushModule: onHostPause
+2018-12-07 16:15:40.469 19447-19447/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() start
+2018-12-07 16:15:40.469 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 16:15:40.474 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 16:15:40.481 19447-27652/com.wallet3 D/ReactNative: ReactInstanceManager.createReactContext()
+2018-12-07 16:15:40.483 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupViewManager
+2018-12-07 16:15:40.483 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupShadowNode
+2018-12-07 16:15:40.483 19447-24040/com.wallet3 I/JPushModule: onCatalystInstanceDestroy
+2018-12-07 16:15:40.483 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeViewManager
+2018-12-07 16:15:40.485 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeShadowNode
+2018-12-07 16:15:40.485 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextViewManager
+2018-12-07 16:15:40.485 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextShadowNode
+2018-12-07 16:15:40.486 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.checkbox.ReactCheckBoxManager
+2018-12-07 16:15:40.487 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+2018-12-07 16:15:40.490 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDialogPickerManager
+2018-12-07 16:15:40.490 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.drawer.ReactDrawerLayoutManager
+2018-12-07 16:15:40.490 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDropdownPickerManager
+2018-12-07 16:15:40.491 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollViewManager
+2018-12-07 16:15:40.491 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollContainerViewManager
+2018-12-07 16:15:40.491 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ReactProgressBarViewManager
+2018-12-07 16:15:40.492 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ProgressBarShadowNode
+2018-12-07 16:15:40.492 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactScrollViewManager
+2018-12-07 16:15:40.493 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager
+2018-12-07 16:15:40.493 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.slider.ReactSliderManager$ReactSliderShadowNode
+2018-12-07 16:15:40.493 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager
+2018-12-07 16:15:40.493 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager$ReactSwitchShadowNode
+2018-12-07 16:15:40.493 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.toolbar.ReactToolbarManager
+2018-12-07 16:15:40.494 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.webview.ReactWebViewManager
+2018-12-07 16:15:40.494 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.swiperefresh.SwipeRefreshLayoutManager
+2018-12-07 16:15:40.495 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewManager
+2018-12-07 16:15:40.495 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewShadowNode
+2018-12-07 16:15:40.495 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager
+2018-12-07 16:15:40.495 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageShadowNode
+2018-12-07 16:15:40.495 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.image.ReactImageManager
+2018-12-07 16:15:40.496 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ReactModalHostManager
+2018-12-07 16:15:40.496 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.modal.ModalHostShadowNode
+2018-12-07 16:15:40.496 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextManager
+2018-12-07 16:15:40.496 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextShadowNode
+2018-12-07 16:15:40.497 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputManager
+2018-12-07 16:15:40.497 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputShadowNode
+2018-12-07 16:15:40.498 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextViewManager
+2018-12-07 16:15:40.499 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextShadowNode
+2018-12-07 16:15:40.499 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.view.ReactViewManager
+2018-12-07 16:15:40.501 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.viewpager.ReactViewPagerManager
+2018-12-07 16:15:40.501 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextViewManager
+2018-12-07 16:15:40.501 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextShadowNode
+2018-12-07 16:15:40.501 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class io.jchat.android.BubbleMsgManager
+2018-12-07 16:15:40.501 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.lwansbrough.RCTCamera.RCTCameraViewManager
+2018-12-07 16:15:40.502 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactMsgListManager
+2018-12-07 16:15:40.503 19447-27652/com.wallet3 W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class cn.jiguang.imui.messagelist.viewmanager.ReactChatInputManager
+2018-12-07 16:15:40.506 19447-27652/com.wallet3 V/JSRealm: setDefaultRealmFileDirectory
+2018-12-07 16:15:40.506 19447-27652/com.wallet3 D/JSRealm: Absolute path: /data/data/com.wallet3/files
+2018-12-07 16:15:40.507 19447-27652/com.wallet3 D/ReactNative: Initializing React Xplat Bridge.
+2018-12-07 16:15:40.509 19447-27652/com.wallet3 D/ReactNative: Initializing React Xplat Bridge before initializeBridge
+2018-12-07 16:15:40.513 19447-27652/com.wallet3 D/ReactNative: Initializing React Xplat Bridge after initializeBridge
+2018-12-07 16:15:40.513 19447-27652/com.wallet3 D/ReactNative: CatalystInstanceImpl.runJSBundle()
+2018-12-07 16:15:40.514 19447-27657/com.wallet3 D/ReactNative: ReactInstanceManager.setupReactContext()
+2018-12-07 16:15:40.514 19447-27657/com.wallet3 D/ReactNative: CatalystInstanceImpl.initialize()
+2018-12-07 16:15:40.515 19447-19447/com.wallet3 W/unknown:ReactNative: Packager connection already open, nooping.
+2018-12-07 16:15:40.515 19447-27657/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 16:15:40.516 19447-27657/com.wallet3 D/JPushModule: onHostResume
+2018-12-07 16:15:40.516 19447-27657/com.wallet3 D/ReactNative: ReactInstanceManager.attachRootViewToInstance()
+2018-12-07 16:15:40.764 19447-27655/com.wallet3 D/ReactNative: CatalystInstanceImpl.destroy() end
+2018-12-07 16:15:41.285 19447-27656/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 16:15:41.308 19447-27656/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 1 line
+2018-12-07 16:15:41.310 19447-27656/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 16:15:41.368 19447-27656/com.wallet3 W/ReactNativeJS: TabNavigator is deprecated. Please use the createBottomTabNavigator or createMaterialTopTabNavigator instead.
+2018-12-07 16:15:41.383 19447-27656/com.wallet3 W/ReactNativeJS: The StackNavigator function name is deprecated, please use createStackNavigator instead
+2018-12-07 16:15:41.395 19447-27656/com.wallet3 I/ReactNativeJS: Running application "Wallet3" with appParams: {"rootTag":51}. __DEV__ === true, development-level warning are ON, performance optimizations are OFF
+2018-12-07 16:15:41.656 19447-27656/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 16:15:41.679 19447-27656/com.wallet3 I/chatty: uid=10095(com.wallet3) mqt_js identical 7 lines
+2018-12-07 16:15:41.691 19447-27656/com.wallet3 W/ReactNativeJS: Warning: isMounted(...) is deprecated in plain JavaScript React classes. Instead, make sure to clean up subscriptions and pending requests in componentWillUnmount to prevent memory leaks.
+2018-12-07 16:15:43.996 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5788 bytes, containing 1 windows, 20 views
+2018-12-07 16:15:47.002 19447-19447/com.wallet3 E/SpannableStringBuilder: SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+2018-12-07 16:15:47.003 19447-19447/com.wallet3 E/SpannableStringBuilder: SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length
+2018-12-07 16:16:13.152 19447-19447/com.wallet3 I/AssistStructure: Flattened final assist data: 5788 bytes, containing 1 windows, 20 views
+2018-12-07 16:16:38.785 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:16:38.785 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 16:19:45.236 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 16:19:45.239 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 16:19:45.239 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15416, sid:44007, juid:20163561480
+2018-12-07 16:19:45.239 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 16:19:45.335 19447-19555/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 16:19:45.335 19447-19555/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 16:19:45.409 19447-19555/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 16:19:45.410 19447-19555/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 16:19:45.410 19447-19555/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 204166822
+2018-12-07 16:19:45.410 19447-19555/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@c19548d
+2018-12-07 16:19:45.410 19447-19555/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 16:19:45.410 19447-19555/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 16:19:45.412 19447-27908/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 204166822_204166888 new list totalCount = 1 old list totalCount = 0
+2018-12-07 16:19:46.264 19447-27914/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.SyncOfflineMessage",{"messageArray":[{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544170565797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195928602","id":"4"}],"conversation":{"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"latestMessage":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544170565797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195928602","id":"4"},"unreadCount":1,"conversationType":"single","title":"zhangzhemin"}}])
+2018-12-07 16:19:46.281 19447-27914/com.wallet3 I/chatty: uid=10095(com.wallet3) pool-10-thread- identical 3 lines
+2018-12-07 16:19:46.286 19447-27914/com.wallet3 W/unknown:ReactNative: Calling JS function after bridge has been destroyed: RCTDeviceEventEmitter.emit(["JMessage.SyncOfflineMessage",{"messageArray":[{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544170565797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195928602","id":"4"}],"conversation":{"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"latestMessage":{"text":"hello","type":"text","unreceiptCount":0,"createTime":1544170565797,"extras":{},"target":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"user3","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":-28800000,"signature":""},"from":{"isFriend":false,"isInBlackList":false,"isNoDisturb":false,"noteName":"","type":"user","username":"zhangzhemin","noteText":"","region":"","appKey":"1f1558cafbf2dd3946981f0b","nickname":"","gender":"unknown","address":"","avatarThumbPath":"","birthday":0,"signature":""},"serverMessageId":"2195928602","id":"4"},"unreadCount":1,"conversationType":"single","title":"zhangzhemin"}}])
+2018-12-07 16:19:46.303 19447-27909/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = 0
+2018-12-07 16:19:46.303 19447-27909/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544170565797
+2018-12-07 16:19:46.304 19447-27909/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 16:19:46.304 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 16:19:46.306 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 16:19:46.306 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15418, sid:44007, juid:20163561480
+2018-12-07 16:19:46.306 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 16:19:46.316 19447-19485/com.wallet3 W/com.wallet3: Couldn't lock the profile file /data/misc/profiles/cur/0/com.wallet3/primary.prof: Failed to lock file '/data/misc/profiles/cur/0/com.wallet3/primary.prof': Try again
+2018-12-07 16:19:46.316 19447-19485/com.wallet3 W/com.wallet3: Could not forcefully load profile /data/misc/profiles/cur/0/com.wallet3/primary.prof
+

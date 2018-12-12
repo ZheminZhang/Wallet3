@@ -1,0 +1,36 @@
+2018-12-07 14:35:07.228 19447-19447/com.wallet3 D/JIGUANG-JCore: [PushReceiver] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 14:35:07.228 19447-19488/com.wallet3 D/JIGUANG-JPush: [PushReceiverCore] onReceive - cn.jpush.android.intent.ACTION_REPORT_HISTORY
+2018-12-07 14:35:38.350 19447-19565/com.wallet3 I/JMessageModule: username: user1 is logging in
+2018-12-07 14:35:38.356 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 14:35:38.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:35:38.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15296, sid:44007, juid:20163561480
+2018-12-07 14:35:38.357 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 14:35:38.534 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:35:38.539 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:1
+2018-12-07 14:35:38.545 19447-21104/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] start SyncCheck
+2018-12-07 14:35:38.690 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:35:38.741 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 1 line
+2018-12-07 14:35:40.185 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:35:40.555 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 14:35:40.556 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:35:40.556 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15298, sid:44007, juid:20163561480
+2018-12-07 14:35:40.556 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 14:35:40.711 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:35:40.713 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:39
+2018-12-07 14:35:40.721 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:35:40.723 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb9bbb780 (RippleDrawable) with handle 0xca778c90
+2018-12-07 14:35:40.757 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:35:40.812 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:35:40.812 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:40
+2018-12-07 14:35:40.812 19447-19476/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp received , uid = 199400809
+2018-12-07 14:35:40.813 19447-19476/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] receive page . page no = 1 page = cn.jpush.im.android.c.b.f$m@503ec23
+2018-12-07 14:35:40.813 19447-19476/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived] cached page no[1]
+2018-12-07 14:35:40.813 19447-19476/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] [PageReceived]start convLocalize conv pages. total page 1
+2018-12-07 14:35:40.824 19447-21123/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler]  conv id = 199400809_204114154 new list totalCount = 2 old list totalCount = 0
+2018-12-07 14:35:42.778 19447-21105/com.wallet3 D/JIGUANG-JMessage: [SyncRespBaseHandler] conversation localize finished. status code = 0
+2018-12-07 14:35:42.778 19447-21105/com.wallet3 I/JIGUANG-JMessage: [SyncConvRespHandler] send sync conv ack back == synckey is 1544164519232
+2018-12-07 14:35:42.779 19447-21105/com.wallet3 I/JIGUANG-JMessage: [SyncRespBaseHandler] sync resp finished. code = 0 desc = Success
+2018-12-07 14:35:42.779 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 14:35:42.781 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:35:42.781 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15300, sid:44007, juid:20163561480
+2018-12-07 14:35:42.781 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100

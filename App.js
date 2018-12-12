@@ -6,8 +6,10 @@
 
 import './shim.js';
 import 'crypto'
-import QRScanner from './lib/QRScannerComponent'
 import BottomTabBar from './BottomTabBar'
+import JPushModule from 'jpush-react-native';
+import JMessage from 'jmessage-react-plugin';
+
 //var ws = new WebSocket('ws://120.78.72.237:3000');
 //var ws = new WebSocket('ws://192.168.71.42:3000');
 //import { PropTypes } from 'react';
@@ -38,6 +40,13 @@ const WalletSchema = {
     keystore: 'string',//添加默认值的写法
   }
 };
+JMessage.init({
+  appkey: "1f1558cafbf2dd3946981f0b",
+  isOpenMessageRoaming: false, // 是否开启消息漫游，默认不开启
+  isProduction: true, // 是否为生产模式
+})
+JMessage.setDebugMode({ enable: true })
+JMessage.setBadge(5, (success) => {})
 
 let realm = new Realm({schema: [WalletSchema]});
 //alert(PropTypes.string)
@@ -46,8 +55,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={{flex:1, justifyContent: 'flex-end'}}>
-        {/*<BottomTabBar ws={ws} WalletSchema={WalletSchema}></BottomTabBar>*/}
-        <QRScanner></QRScanner>
+        <BottomTabBar ws={ws} WalletSchema={WalletSchema}></BottomTabBar>
       </View>
     );
   }

@@ -1,0 +1,13 @@
+2018-12-07 14:39:17.548 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 14:39:17.549 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:39:17.549 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15302, sid:44007, juid:20163561480
+2018-12-07 14:39:17.551 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 14:39:17.786 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:39:17.787 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 14:39:17.801 19447-21356/com.wallet3 D/JIGUANG-JMessage: [MsgRequest] send message success. id = 2195289572 cTimeMS = 1544164758606
+2018-12-07 14:39:17.887 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:39:19.404 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 14:39:19.412 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:39:19.414 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb9b94480 (RippleDrawable) with handle 0xc9fcf300
+2018-12-07 14:39:19.441 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+
