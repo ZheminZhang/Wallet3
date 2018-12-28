@@ -18,7 +18,6 @@ var ws = new WebSocket("ws://192.168.1.4:3000");
 
 import React, { Component } from "react";
 import {
-  Alarm,
   Platform,
   StyleSheet,
   Text,
