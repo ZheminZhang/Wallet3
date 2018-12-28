@@ -9,6 +9,8 @@ import 'crypto'
 import BottomTabBar from './BottomTabBar'
 import JPushModule from 'jpush-react-native';
 import JMessage from 'jmessage-react-plugin';
+import Chat from './lib/ChatComponent'
+import ErrorBoundary from './lib/ErrorBoundaryComponent'
 
 //var ws = new WebSocket('ws://120.78.72.237:3000');
 //var ws = new WebSocket('ws://192.168.71.42:3000');
@@ -54,8 +56,9 @@ type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
-      <View style={{flex:1, justifyContent: 'flex-end'}}>
+      <View style={{flex:1, justifyContent: 'flex-end'}}>   
         <BottomTabBar ws={ws} WalletSchema={WalletSchema}></BottomTabBar>
+        {/*<Chat></Chat>*/}  
       </View>
     );
   }
