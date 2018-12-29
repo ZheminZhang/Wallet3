@@ -9,6 +9,8 @@ import Icon from 'react-native-vector-icons/Ionicons';
 import QRScanner from './lib/QRScannerComponent'
 import Chat from './lib/ChatComponent'
 import JMessageTest from './JMessageTestComponent'
+import ExportPrivateKey from './lib/ExportPrivateKeyComponent'
+import ExportSeed from './lib/ExportSeedComponent'
 
 import React, { Component } from 'react';
 import {
@@ -29,9 +31,10 @@ export default class BottomTabBar extends Component {
 
   constructor(props){
     super(props);
-      this.state = {
+    this.state = {
       selectIndex: 0,
     }
+    
   }
 
   render() {
@@ -47,19 +50,7 @@ export default class BottomTabBar extends Component {
             onPress={() => this.setState({ selectIndex: 0 })}>
             <View style={{flex: 1}}>
                 <WalletManagement ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
-            </View>
-        </TabNavigator.Item>
-        <TabNavigator.Item
-            title="交易"
-            titleStyle={styles.tabText}
-            selected={1==this.state.selectIndex}
-            renderIcon={() => <Image source={this.state.transferNormal} style={styles.icon}/>}
-            renderSelectedIcon={() => <Image source={this.state.transferSelected} style={styles.icon} />}
-            onPress={() => this.setState({ selectIndex: 1 })}>
-            <View style={{flex:1,justifyContent:'center',alignItems:'center'}}>
-                <Purchase ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
-                <Transfer ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
-                <GetBalance ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
+              
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item
@@ -75,17 +66,6 @@ export default class BottomTabBar extends Component {
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item
-            title="在线商城"
-            titleStyle={styles.tabText}
-            selected={3==this.state.selectIndex}
-            renderIcon={() => <Image source={this.state.shoppingNormal} style={styles.icon}/>}
-            renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
-            onPress={() => this.setState({ selectIndex: 3 })}>
-            <View style={{flex:1}}>
-                <LoadSmartContract ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
-            </View>
-        </TabNavigator.Item>
-        <TabNavigator.Item
             title="扫一扫"
             titleStyle={styles.tabText}
             selected={4==this.state.selectIndex}
@@ -93,7 +73,7 @@ export default class BottomTabBar extends Component {
             renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
             onPress={() => this.setState({ selectIndex: 4 })}>
             <View style={{flex:1}}>
-                <QRScanner/>
+                <ExportSeed WalletSchema={this.props.WalletSchema}/>
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item
@@ -104,7 +84,7 @@ export default class BottomTabBar extends Component {
             renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
             onPress={() => this.setState({ selectIndex: 5 })}>
             <View style={{flex:1}}>
-                <JMessageTest/>
+                <Chat/>
             </View>
         </TabNavigator.Item>
       </TabNavigator>

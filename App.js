@@ -3,12 +3,12 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-
-import "./shim.js";
-import "crypto";
-import BottomTabBar from "./BottomTabBar";
-import JPushModule from "jpush-react-native";
-import JMessage from "jmessage-react-plugin";
+import './shim.js';
+import 'crypto'
+import BottomTabBar from './BottomTabBar'
+import JPushModule from 'jpush-react-native';
+import JMessage from 'jmessage-react-plugin';
+import Chat from './lib/ChatComponent'
 
 //var ws = new WebSocket('ws://120.78.72.237:3000');
 //var ws = new WebSocket('ws://192.168.71.42:3000');

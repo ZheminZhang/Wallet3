@@ -1,14 +1,14 @@
-Executable : /Users/zhangzhemin/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+Executable : /Users/zheminzhang/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp
--B/Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/release/x86
+-H/Users/zheminzhang/Wallet3/android/app/src/main/cpp
+-B/Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/release/x86
 -GAndroid Gradle - Ninja
 -DANDROID_ABI=x86
--DANDROID_NDK=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/release/obj/x86
+-DANDROID_NDK=/Users/zheminzhang/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zheminzhang/Wallet3/android/app/build/intermediates/cmake/release/obj/x86
 -DCMAKE_BUILD_TYPE=Release
--DCMAKE_MAKE_PROGRAM=/Users/zhangzhemin/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
--DCMAKE_TOOLCHAIN_FILE=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/zheminzhang/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
 -DANDROID_NATIVE_API_LEVEL=16
 jvmArgs : 
 
