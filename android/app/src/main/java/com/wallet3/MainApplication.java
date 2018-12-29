@@ -3,6 +3,7 @@ package com.wallet3;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.airbnb.android.react.lottie.LottiePackage;
 import com.rnfs.RNFSPackage;
 import io.jchat.android.JMessageReactPackage;
 import cn.jpush.reactnativejpush.JPushPackage;
@@ -40,6 +41,7 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new LottiePackage(),
             new RNFSPackage(),
             new JMessageReactPackage(SHUTDOWN_TOAST),
             new JPushPackage(!BuildConfig.DEBUG, !BuildConfig.DEBUG),
