@@ -11,6 +11,7 @@ import Chat from './lib/ChatComponent'
 import JMessageTest from './JMessageTestComponent'
 import ExportPrivateKey from './lib/ExportPrivateKeyComponent'
 import ExportSeed from './lib/ExportSeedComponent'
+import GetTrade from './lib/GetTradeComponent'
 
 import React, { Component } from 'react';
 import {
@@ -66,14 +67,14 @@ export default class BottomTabBar extends Component {
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item
-            title="扫一扫"
+            title="成交价"
             titleStyle={styles.tabText}
             selected={4==this.state.selectIndex}
             renderIcon={() => <Image source={this.state.shoppingNormal} style={styles.icon}/>}
             renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
             onPress={() => this.setState({ selectIndex: 4 })}>
             <View style={{flex:1}}>
-                <ExportSeed WalletSchema={this.props.WalletSchema}/>
+                <GetTrade/>
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item
