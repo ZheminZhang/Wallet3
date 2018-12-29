@@ -1,0 +1,27 @@
+2018-12-07 14:44:12.213 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:300000, threadId:1018
+2018-12-07 14:44:12.213 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:44:12.214 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:290000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15310, sid:44007, juid:20163561480
+2018-12-07 14:44:12.214 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 14:44:12.461 19447-19476/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:44:12.461 19447-19476/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:3
+2018-12-07 14:44:12.461 19447-19476/com.wallet3 D/JMessageModule: 登录状态改变事件：event = cn.jpush.im.android.api.event.LoginStateChangeEvent@224f11e
+2018-12-07 14:44:12.462 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendRequestInternal - connection:, timeout:60000, threadId:1018
+2018-12-07 14:44:12.463 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Action - sendCommandWithLoggedIn
+2018-12-07 14:44:12.464 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] request is [Requesting] - timeout:50000, times:1, request:[Request] - [JHead] - len:0, version:1, command:100, rid:15312, sid:44007, juid:20163561480
+2018-12-07 14:44:12.464 19447-19618/com.wallet3 D/JIGUANG-JMessage: [RequestingThread] Request params - cmd:100
+2018-12-07 14:44:12.464 19447-19476/com.wallet3 I/JIGUANG-JMessage: [RequestProcessor] SyncCheck stopped
+2018-12-07 14:44:12.464 19447-19476/com.wallet3 W/JIGUANG-JMessage: [ImBaseRequest] response code is handled,return from parse response.
+2018-12-07 14:44:12.465 19447-19476/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getConversation] have not logged in!
+2018-12-07 14:44:12.465 19447-19476/com.wallet3 W/JIGUANG-JMessage: [MsgRequest] conversation is null!update message status failed !
+2018-12-07 14:44:12.466 19447-19447/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [getFromUser] have not logged in!
+2018-12-07 14:44:12.624 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:44:12.692 19447-20471/com.wallet3 D/JIGUANG-JMessage: [b] processIMData type : im_response
+2018-12-07 14:44:12.693 19447-20471/com.wallet3 D/JIGUANG-JMessage: [ResponseProcessor] IMCMD:2
+2018-12-07 14:44:12.693 19447-20471/com.wallet3 E/JIGUANG-JMessage: [CommonUtils] [handleIMResponse] have not logged in!
+2018-12-07 14:44:12.761 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:44:12.807 19447-19505/com.wallet3 I/chatty: uid=10095(com.wallet3) RenderThread identical 2 lines
+2018-12-07 14:44:12.822 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:44:14.219 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:44:14.692 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
+2018-12-07 14:44:14.694 19447-19505/com.wallet3 D/OpenGLRenderer: endAllActiveAnimators on 0xb9b96e80 (RippleDrawable) with handle 0xdd5faf60
+2018-12-07 14:44:14.717 19447-19505/com.wallet3 D/EGL_emulation: eglMakeCurrent: 0xddb7ade0: ver 3 0 (tinfo 0xca85a110)
