@@ -26,7 +26,6 @@
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		15274BD2DAA44BE6BBE2B9F9 /* libRCTCamera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FB4E053E32EC4196AE1CCB0A /* libRCTCamera.a */; };
-		1534DC41E90B4AE5BDB794FA /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05B57891C56E411CB539E1DB /* AudioToolbox.framework */; };
 		1B3196561D5246B58C1C162F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50468C24C45D439D8C4A2151 /* Foundation.framework */; };
 		2115ED0F98264FEC9872FCDE /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7610F1B48D34C5499847292 /* libRNVectorIcons.a */; };
 		2676065FADFF4A6383613A17 /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 950B2694751C4ABEAF40376C /* libsqlite3.tbd */; };
@@ -66,6 +65,12 @@
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		9430D87B94CE49E3B729817C /* libRNVectorIcons-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F09FF72FE09E4F5E974F8D10 /* libRNVectorIcons-tvOS.a */; };
 		9940C195899D4FDCA30C647F /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B90893D21CD246999C446295 /* CFNetwork.framework */; };
+		A604767D21D606F900C61B3C /* libAuroraIMUI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F5507D0F21AECDB3004DB6E9 /* libAuroraIMUI.a */; };
+		A604768221D60D0900C61B3C /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F5D5D575219C058F004A7C16 /* libcrypto.a */; };
+		A604768521D60FB100C61B3C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A604768421D60FB100C61B3C /* AudioToolbox.framework */; };
+		A604768721D60FB500C61B3C /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A604768621D60FB500C61B3C /* MapKit.framework */; };
+		A604768921D60FBC00C61B3C /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A604768821D60FBC00C61B3C /* NetworkExtension.framework */; };
+		A604768B21D60FC500C61B3C /* PassKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A604768A21D60FC500C61B3C /* PassKit.framework */; };
 		A9AA1FD691484154A4A2A7B5 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 47A57D84524541B8A93AE37E /* Ionicons.ttf */; };
 		AA63BCB56319426E965AE77B /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5B6C77937FF44D5DB7096134 /* Octicons.ttf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
@@ -75,7 +80,6 @@
 		CA687416AC3141079AF154FE /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84B025E080FF4323B432D1BC /* SimpleLineIcons.ttf */; };
 		CC6858F9709B44FC9F766877 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 59EEA3F8DD9C4A73B5B1A80F /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		CF2E696261414913A6B66C00 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 827718AF63F1468592FA9BFD /* FontAwesome5_Solid.ttf */; };
-		D902E342708F40EA99BD5DEA /* libAuroraIMUI.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 83916DE2647D4757A3B92F69 /* libAuroraIMUI.a */; };
 		DD4FDECBF34C45D0B12BDAFC /* libRNRandomBytes-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 46234538708D48308247D350 /* libRNRandomBytes-tvOS.a */; };
 		E1A4FD3A8F50418D947D2E9B /* libRCTJMessageModule.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2166FC486ECA4E299E0257B8 /* libRCTJMessageModule.a */; };
 		EAE9B5ED9E924FAFAC3FA938 /* RCTAuroraIMUITests.xctest in Frameworks */ = {isa = PBXBuildFile; fileRef = 981971EC879F41A6881901C9 /* RCTAuroraIMUITests.xctest */; };
@@ -87,7 +91,6 @@
 		F5D5D572219C0583004A7C16 /* openssl in Resources */ = {isa = PBXBuildFile; fileRef = F5D5D56C219C0583004A7C16 /* openssl */; };
 		F5D5D573219C0583004A7C16 /* fastpbkdf2.c in Sources */ = {isa = PBXBuildFile; fileRef = F5D5D56D219C0583004A7C16 /* fastpbkdf2.c */; };
 		F5D5D576219C058F004A7C16 /* libssl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F5D5D574219C058F004A7C16 /* libssl.a */; };
-		F5D5D577219C058F004A7C16 /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F5D5D575219C058F004A7C16 /* libcrypto.a */; };
 		F6098BD35EFC4002AD1B8454 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D56E1CD5979141479027C4B5 /* CoreFoundation.framework */; };
 		F65422129E08471FB74687D7 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E96086465F7C4E2FBBA496CF /* MaterialIcons.ttf */; };
 		F6BF3643DE074249B09B4AF9 /* libRNOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 11FB813DF1594597A1BCABAB /* libRNOS.a */; };
@@ -362,6 +365,20 @@
 			remoteGlobalIDString = 58B5119B1A9E6C1200147676;
 			remoteInfo = RCTText;
 		};
+		A604767121D5D08800C61B3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A1F9BA62584D4982E93FAC /* RNFS.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F12AFB9B1ADAF8F800E0535D;
+			remoteInfo = RNFS;
+		};
+		A604767321D5D08800C61B3C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23A1F9BA62584D4982E93FAC /* RNFS.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 6456441F1EB8DA9100672408;
+			remoteInfo = "RNFS-tvOS";
+		};
 		ADBDB9261DFEBF0700ED6528 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */;
@@ -580,6 +597,11 @@
 		981971EC879F41A6881901C9 /* RCTAuroraIMUITests.xctest */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = RCTAuroraIMUITests.xctest; sourceTree = "<group>"; };
 		9B6D515F863A4B898BDD5020 /* libresolv.tbd */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
 		A29E53FAFE424E42BB647AC9 /* UdpSockets.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = UdpSockets.xcodeproj; path = "../node_modules/react-native-udp/ios/UdpSockets.xcodeproj"; sourceTree = "<group>"; };
+		A604768321D60F9F00C61B3C /* Wallet3.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Wallet3.entitlements; path = Wallet3/Wallet3.entitlements; sourceTree = "<group>"; };
+		A604768421D60FB100C61B3C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		A604768621D60FB500C61B3C /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		A604768821D60FBC00C61B3C /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = System/Library/Frameworks/NetworkExtension.framework; sourceTree = SDKROOT; };
+		A604768A21D60FC500C61B3C /* PassKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PassKit.framework; path = System/Library/Frameworks/PassKit.framework; sourceTree = SDKROOT; };
 		A7610F1B48D34C5499847292 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
 		AB8E4DAE062743A0A2A8085E /* libTcpSockets.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libTcpSockets.a; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
@@ -628,31 +650,32 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A604767D21D606F900C61B3C /* libAuroraIMUI.a in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
 				00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */,
-				F5D5D577219C058F004A7C16 /* libcrypto.a in Frameworks */,
 				00C302E81ABCBA2D00DB3ED1 /* libRCTImage.a in Frameworks */,
 				133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */,
 				00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */,
 				139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */,
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
+				A604768921D60FBC00C61B3C /* NetworkExtension.framework in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				3F8FC91C27184DC58C682B2B /* libRealmReact.a in Frameworks */,
 				0F98C041CDB94266AE00D889 /* libc++.tbd in Frameworks */,
 				FAE8914C86764CC088907267 /* libz.tbd in Frameworks */,
 				2115ED0F98264FEC9872FCDE /* libRNVectorIcons.a in Frameworks */,
-				F5D5D576219C058F004A7C16 /* libssl.a in Frameworks */,
 				2F814F4C1641488E9D5CE31F /* libRNRandomBytes.a in Frameworks */,
+				F5D5D576219C058F004A7C16 /* libssl.a in Frameworks */,
 				F6BF3643DE074249B09B4AF9 /* libRNOS.a in Frameworks */,
 				6153530747B2495087C127D1 /* libTcpSockets.a in Frameworks */,
+				A604768221D60D0900C61B3C /* libcrypto.a in Frameworks */,
 				7E87AC7FACA948B38278E2B3 /* libUdpSockets.a in Frameworks */,
 				15274BD2DAA44BE6BBE2B9F9 /* libRCTCamera.a in Frameworks */,
-				D902E342708F40EA99BD5DEA /* libAuroraIMUI.a in Frameworks */,
 				7D4CD69DB37D45E099CB9D1A /* RCTAuroraIMUI.framework in Frameworks */,
 				EAE9B5ED9E924FAFAC3FA938 /* RCTAuroraIMUITests.xctest in Frameworks */,
 				41AC80126A5E4C80BE6163DF /* CoreTelephony.framework in Frameworks */,
@@ -663,14 +686,16 @@
 				3A534EDFDA814E47A9C6840C /* UIKit.framework in Frameworks */,
 				2C97BA559DF6429F9ABE4632 /* CoreGraphics.framework in Frameworks */,
 				F5507D1421AECDDF004DB6E9 /* RCTAuroraIMUI.framework in Frameworks */,
+				A604768521D60FB100C61B3C /* AudioToolbox.framework in Frameworks */,
 				B307FECC1C2E47848D3FFECE /* libRCTJCoreModule.a in Frameworks */,
 				1388080CE5A0489982EFBF18 /* libRCTJPushModule.a in Frameworks */,
 				CC6858F9709B44FC9F766877 /* UserNotifications.framework in Frameworks */,
 				6C23726C9E594EB38F33A849 /* Security.framework in Frameworks */,
+				A604768B21D60FC500C61B3C /* PassKit.framework in Frameworks */,
 				C9FFE38DFF1848AB92B48D89 /* libresolv.tbd in Frameworks */,
 				E1A4FD3A8F50418D947D2E9B /* libRCTJMessageModule.a in Frameworks */,
 				3FA6124A44A84F0EBDDB179F /* CoreAudio.framework in Frameworks */,
-				1534DC41E90B4AE5BDB794FA /* AudioToolbox.framework in Frameworks */,
+				A604768721D60FB500C61B3C /* MapKit.framework in Frameworks */,
 				FC06618749374C6691281833 /* MobileCoreServices.framework in Frameworks */,
 				2676065FADFF4A6383613A17 /* libsqlite3.tbd in Frameworks */,
 				4ED3F71F6A194FDDBA1B34D1 /* libRNFS.a in Frameworks */,
@@ -787,6 +812,7 @@
 		13B07FAE1A68108700A75B9A /* Wallet3 */ = {
 			isa = PBXGroup;
 			children = (
+				A604768321D60F9F00C61B3C /* Wallet3.entitlements */,
 				F5D5D56D219C0583004A7C16 /* fastpbkdf2.c */,
 				F5D5D56F219C0583004A7C16 /* fastpbkdf2.h */,
 				F5D5D56E219C0583004A7C16 /* native-lib.h */,
@@ -831,6 +857,10 @@
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A604768A21D60FC500C61B3C /* PassKit.framework */,
+				A604768821D60FBC00C61B3C /* NetworkExtension.framework */,
+				A604768621D60FB500C61B3C /* MapKit.framework */,
+				A604768421D60FB100C61B3C /* AudioToolbox.framework */,
 				F5D5D575219C058F004A7C16 /* libcrypto.a */,
 				F5D5D574219C058F004A7C16 /* libssl.a */,
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
@@ -847,7 +877,6 @@
 				D1A05D183CAB4874A3E42EDD /* Security.framework */,
 				9B6D515F863A4B898BDD5020 /* libresolv.tbd */,
 				675B8221894447A0BB191B9B /* CoreAudio.framework */,
-				05B57891C56E411CB539E1DB /* AudioToolbox.framework */,
 				E3817BF0B1C94E2C98B851B9 /* MobileCoreServices.framework */,
 				950B2694751C4ABEAF40376C /* libsqlite3.tbd */,
 			);
@@ -939,6 +968,15 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		A604766D21D5D08700C61B3C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A604767221D5D08800C61B3C /* libRNFS.a */,
+				A604767421D5D08800C61B3C /* libRNFS.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		ADBDB9201DFEBF0600ED6528 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -951,11 +989,11 @@
 		E907260AC6BC418DB497647D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				FF1AC4ABBD0745A291DEE399 /* AntDesign.ttf */,
 				C6E49EAA499B45E9BA2E8620 /* Entypo.ttf */,
 				818B36E9EBA9428D8E5B65CB /* EvilIcons.ttf */,
 				B722D289F56A47358FF5DC55 /* Feather.ttf */,
 				37E8705520ED4B95A24C9EB9 /* FontAwesome.ttf */,
+				FF1AC4ABBD0745A291DEE399 /* AntDesign.ttf */,
 				95E8A5D83B9A42CEADD289AD /* FontAwesome5_Brands.ttf */,
 				B1CE3A5F17424BB8816841E4 /* FontAwesome5_Regular.ttf */,
 				827718AF63F1468592FA9BFD /* FontAwesome5_Solid.ttf */,
@@ -1183,7 +1221,53 @@
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 27PX83U9C5;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 27PX83U9C5;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.AccessWiFi = {
+								enabled = 1;
+							};
+							com.apple.ApplePay = {
+								enabled = 0;
+							};
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+							com.apple.DataProtection = {
+								enabled = 1;
+							};
+							com.apple.InterAppAudio = {
+								enabled = 1;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+							com.apple.Multipath = {
+								enabled = 1;
+							};
+							com.apple.NearFieldCommunicationTagReading = {
+								enabled = 1;
+							};
+							com.apple.NetworkExtensions.iOS = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+							com.apple.SafariKeychain = {
+								enabled = 1;
+							};
+							com.apple.Siri = {
+								enabled = 1;
+							};
+							com.apple.Wallet = {
+								enabled = 1;
+							};
+						};
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1281,7 +1365,11 @@
 					ProjectRef = 0E6203B4B9764E69A1FA0723 /* RealmReact.xcodeproj */;
 				},
 				{
+//<<<<<<< HEAD
 					ProductGroup = F5CC6D7721C1393E0055C379 /* Products */;
+//=======
+					//ProductGroup = A604766D21D5D08700C61B3C /* Products */;
+//>>>>>>> a45fdd607ad26b2ea47d369fd3e518669bfb369a
 					ProjectRef = 23A1F9BA62584D4982E93FAC /* RNFS.xcodeproj */;
 				},
 				{
@@ -1566,6 +1654,20 @@
 			fileType = archive.ar;
 			path = libRCTText.a;
 			remoteRef = 832341B41AAA6A8300B99B32 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A604767221D5D08800C61B3C /* libRNFS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNFS.a;
+			remoteRef = A604767121D5D08800C61B3C /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		A604767421D5D08800C61B3C /* libRNFS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNFS.a;
+			remoteRef = A604767321D5D08800C61B3C /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */ = {
@@ -1857,6 +1959,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 27PX83U9C5;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -1904,6 +2007,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = 27PX83U9C5;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/realm/src/**",
@@ -1947,8 +2051,13 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Wallet3/Wallet3.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = 27PX83U9C5;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../node_modules/jmessage-react-plugin/ios/RCTJMessageModule";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1980,6 +2089,7 @@
 					"\"JMessage\"",
 				);
 				PRODUCT_NAME = Wallet3;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1989,7 +2099,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Wallet3/Wallet3.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 27PX83U9C5;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/../node_modules/jmessage-react-plugin/ios/RCTJMessageModule";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2021,6 +2136,7 @@
 					"\"JMessage\"",
 				);
 				PRODUCT_NAME = Wallet3;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
