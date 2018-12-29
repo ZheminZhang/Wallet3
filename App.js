@@ -14,7 +14,7 @@ import JMessage from 'jmessage-react-plugin';
 //var ws = new WebSocket('ws://192.168.71.42:3000');
 //import { PropTypes } from 'react';
 //import PropTypes from 'prop-types'
-var ws = new WebSocket('ws://192.168.1.4:3000');
+var ws = new WebSocket('ws://192.168.1.10:3000');
 
 import React, { Component } from 'react';
 import {
