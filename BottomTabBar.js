@@ -11,7 +11,7 @@ import Chat from './lib/ChatComponent'
 import JMessageTest from './JMessageTestComponent'
 import ExportPrivateKey from './lib/ExportPrivateKeyComponent'
 import ExportSeed from './lib/ExportSeedComponent'
-import GetTrade from './lib/GetTradeComponent'
+import GetCoinPrice from './lib/GetCoinPriceComponent'
 
 import React, { Component } from 'react';
 import {
@@ -74,7 +74,7 @@ export default class BottomTabBar extends Component {
             renderSelectedIcon={() => <Image source={this.state.shoppingSelected} style={styles.icon} />}
             onPress={() => this.setState({ selectIndex: 4 })}>
             <View style={{flex:1}}>
-                <GetTrade/>
+                <GetCoinPrice/>
             </View>
         </TabNavigator.Item>
         <TabNavigator.Item

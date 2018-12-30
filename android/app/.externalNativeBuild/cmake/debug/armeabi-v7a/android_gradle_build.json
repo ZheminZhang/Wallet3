@@ -1,9 +1,12 @@
 
 {
-	"buildFiles" : [ "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/CMakeLists.txt" ],
+	"buildFiles" : 
+	[
+		"/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/CMakeLists.txt"
+	],
 	"cleanCommands" : 
 	[
-		"/Users/zheminzhang/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+		"/Users/zhangzhemin/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -12,55 +15,55 @@
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "native-lib",
-			"buildCommand" : "/Users/zheminzhang/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target native-lib",
+			"buildCommand" : "/Users/zhangzhemin/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target native-lib",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zheminzhang/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "/Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zheminzhang/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/scrypt.cpp",
-					"workingDirectory" : "/Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/scrypt.cpp",
+					"workingDirectory" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zheminzhang/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zheminzhang/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/fastpbkdf2.cpp",
-					"workingDirectory" : "/Users/zheminzhang/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/.. -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/zhangzhemin/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/fastpbkdf2.cpp",
+					"workingDirectory" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "/Users/zheminzhang/Wallet3/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
-			"toolchain" : "5003289768913712359"
+			"output" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "5738806596783656282"
 		},
 		"openssl-crypto-Debug-armeabi-v7a" : 
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "openssl-crypto",
 			"buildType" : "debug",
-			"output" : "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/../jniLibs/armeabi-v7a/libcrypto.a",
-			"toolchain" : "5003289768913712359"
+			"output" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/../jniLibs/armeabi-v7a/libcrypto.a",
+			"toolchain" : "5738806596783656282"
 		},
 		"openssl-ssl-Debug-armeabi-v7a" : 
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "openssl-ssl",
 			"buildType" : "debug",
-			"output" : "/Users/zheminzhang/Wallet3/android/app/src/main/cpp/../jniLibs/armeabi-v7a/libssl.a",
-			"toolchain" : "5003289768913712359"
+			"output" : "/Users/zhangzhemin/RNProjects/Wallet3/android/app/src/main/cpp/../jniLibs/armeabi-v7a/libssl.a",
+			"toolchain" : "5738806596783656282"
 		}
 	},
 	"toolchains" : 
 	{
-		"5003289768913712359" : 
+		"5738806596783656282" : 
 		{
-			"cCompilerExecutable" : "/Users/zheminzhang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
-			"cppCompilerExecutable" : "/Users/zheminzhang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+			"cCompilerExecutable" : "/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/zhangzhemin/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
 		}
 	}
 }
