@@ -37,7 +37,8 @@ const WalletSchema = {
     address: "string",
     name: "string",
     type: "string",
-    keystore: "string" //添加默认值的写法
+    keystore: "string", //添加默认值的写法
+    isSeed: "string"
   }
 };
 JMessage.init({
