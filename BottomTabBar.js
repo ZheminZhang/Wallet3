@@ -50,7 +50,7 @@ export default class BottomTabBar extends Component {
             renderSelectedIcon={() => <Image source={this.state.walletSelected} style={styles.icon} />}
             onPress={() => this.setState({ selectIndex: 0 })}>
             <View style={{flex: 1}}>
-                <WalletManagement ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
+                <WalletManagement httpRequest = {this.props.httpRequest} ws={this.props.ws} WalletSchema={this.props.WalletSchema}/>
               
             </View>
         </TabNavigator.Item>

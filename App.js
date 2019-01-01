@@ -9,6 +9,7 @@ import BottomTabBar from './BottomTabBar'
 import JPushModule from 'jpush-react-native';
 import JMessage from 'jmessage-react-plugin';
 import Chat from './lib/ChatComponent'
+import httpRequest from './lib/src/httpRequest'
 
 //var ws = new WebSocket('ws://120.78.72.237:3000');
 //var ws = new WebSocket('ws://192.168.71.42:3000');
@@ -56,7 +57,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={{ flex: 1, justifyContent: "flex-end" }}>
-        <BottomTabBar ws={ws} WalletSchema={WalletSchema} />
+        <BottomTabBar httpRequest = {httpRequest} ws={ws} WalletSchema={WalletSchema} />
       </View>
     );
   }
