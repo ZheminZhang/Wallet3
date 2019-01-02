@@ -1,6 +1,6 @@
 import WalletManagement from "./lib/WalletManagementComponent";
-import ListSmartContract from "./lib/ListSmartContractComponent";
 import LoadSmartContract from "./lib/LoadSmartContractComponent";
+import LoadSmartContract1 from "./lib/LoadSmartContractComponent1";
 import TabNavigator from "react-native-tab-navigator";
 import Icon from "react-native-vector-icons/Ionicons";
 import QRScanner from "./lib/QRScannerComponent";
@@ -52,10 +52,9 @@ export default class BottomTabBar extends Component {
           </View>
         </TabNavigator.Item>
         <TabNavigator.Item
-          title="合约商店"
+          title="交易"
           titleStyle={styles.tabText}
           selected={2 == this.state.selectIndex}
-          badgeText={2}
           renderIcon={() => (
             <Image source={this.state.contractNormal} style={styles.icon} />
           )}
@@ -65,26 +64,31 @@ export default class BottomTabBar extends Component {
           onPress={() => this.setState({ selectIndex: 2 })}
         >
           <View style={{ flex: 1 }}>
-            <ListSmartContract
+            <LoadSmartContract
               ws={this.props.ws}
               WalletSchema={this.props.WalletSchema}
+              contractState={0}
             />
           </View>
         </TabNavigator.Item>
         <TabNavigator.Item
-          title="成交价"
+          title="已确认订单"
           titleStyle={styles.tabText}
-          selected={4 == this.state.selectIndex}
+          selected={3 == this.state.selectIndex}
           renderIcon={() => (
-            <Image source={this.state.shoppingNormal} style={styles.icon} />
+            <Image source={this.state.contractNormal} style={styles.icon} />
           )}
           renderSelectedIcon={() => (
-            <Image source={this.state.shoppingSelected} style={styles.icon} />
+            <Image source={this.state.contractSelected} style={styles.icon} />
           )}
-          onPress={() => this.setState({ selectIndex: 4 })}
+          onPress={() => this.setState({ selectIndex: 3 })}
         >
           <View style={{ flex: 1 }}>
-            <GetCoinPrice />
+            <LoadSmartContract1
+              ws={this.props.ws}
+              WalletSchema={this.props.WalletSchema}
+              contractState1={1}
+            />
           </View>
         </TabNavigator.Item>
         <TabNavigator.Item
