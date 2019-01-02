@@ -1,6 +1,5 @@
 import WalletManagement from "./lib/WalletManagementComponent";
 import LoadSmartContract from "./lib/LoadSmartContractComponent";
-import LoadSmartContract1 from "./lib/LoadSmartContractComponent1";
 import TabNavigator from "react-native-tab-navigator";
 import Icon from "react-native-vector-icons/Ionicons";
 import QRScanner from "./lib/QRScannerComponent";
@@ -29,7 +28,6 @@ export default class BottomTabBar extends Component {
   }
 
   render() {
-    const { selectedColor } = this.props;
     return (
       <TabNavigator tabBarStyle={{ height: 78 }}>
         <TabNavigator.Item
@@ -56,10 +54,10 @@ export default class BottomTabBar extends Component {
           titleStyle={styles.tabText}
           selected={2 == this.state.selectIndex}
           renderIcon={() => (
-            <Image source={this.state.contractNormal} style={styles.icon} />
+            <Image source={this.state.transferNormal} style={styles.icon} />
           )}
           renderSelectedIcon={() => (
-            <Image source={this.state.contractSelected} style={styles.icon} />
+            <Image source={this.state.transferSelected} style={styles.icon} />
           )}
           onPress={() => this.setState({ selectIndex: 2 })}
         >
@@ -71,7 +69,7 @@ export default class BottomTabBar extends Component {
             />
           </View>
         </TabNavigator.Item>
-        <TabNavigator.Item
+        {/* <TabNavigator.Item
           title="已确认订单"
           titleStyle={styles.tabText}
           selected={3 == this.state.selectIndex}
@@ -90,7 +88,7 @@ export default class BottomTabBar extends Component {
               contractState1={1}
             />
           </View>
-        </TabNavigator.Item>
+        </TabNavigator.Item> */}
         <TabNavigator.Item
           title="聊天"
           titleStyle={styles.tabText}
