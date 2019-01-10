@@ -10,8 +10,16 @@ import ExportSeed from "./lib/ExportSeedComponent";
 import GetCoinPrice from "./lib/GetCoinPriceComponent";
 
 import React, { Component } from "react";
-import { AppRegistry, StyleSheet, Text, View, Image } from "react-native";
+import {
+  AppRegistry,
+  StyleSheet,
+  Text,
+  View,
+  Image,
+  Dimensions
+} from "react-native";
 import Realm from "realm";
+var { width, height } = Dimensions.get("window");
 
 //底部导航栏
 export default class BottomTabBar extends Component {
@@ -29,7 +37,7 @@ export default class BottomTabBar extends Component {
 
   render() {
     return (
-      <TabNavigator tabBarStyle={{ height: 78 }}>
+      <TabNavigator tabBarStyle={{ height: 0.12 * height }}>
         <TabNavigator.Item
           title="钱包管理"
           titleStyle={styles.tabText}
@@ -147,8 +155,8 @@ const styles = StyleSheet.create({
     paddingBottom: 20
   },
   icon: {
-    width: 25,
-    height: 25,
+    width: 0.1 * width,
+    height: 0.1 * width,
     margin: 3
   },
   border: {
