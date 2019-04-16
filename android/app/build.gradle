@@ -104,7 +104,7 @@ android {
         versionCode 1
         versionName "1.0"
         manifestPlaceholders = [
-                JPUSH_APPKEY: "1f1558cafbf2dd3946981f0b",
+                JPUSH_APPKEY: "4dc08da5773df4784e216e5c",
                 APP_CHANNEL : "developer-default"
         ]
         ndk {
