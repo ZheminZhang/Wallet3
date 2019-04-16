@@ -2,24 +2,12 @@ import WalletManagement from "./lib/WalletManagementComponent";
 import LoadSmartContract from "./lib/LoadSmartContractComponent";
 import TabNavigator from "react-native-tab-navigator";
 import Icon from "react-native-vector-icons/Ionicons";
-import QRScanner from "./lib/QRScannerComponent";
+import MyInfo from "./lib/MyInfoComponent";
 import Chat from "./lib/ChatComponent";
-import JMessageTest from "./JMessageTestComponent";
-import ExportPrivateKey from "./lib/ExportPrivateKeyComponent";
-import ExportSeed from "./lib/ExportSeedComponent";
-import GetCoinPrice from "./lib/GetCoinPriceComponent";
+//import JMessageTest from "./ChatUIComponent";
 
 import React, { Component } from "react";
-import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View,
-  Image,
-  Dimensions
-} from "react-native";
-import Realm from "realm";
-var { width, height } = Dimensions.get("window");
+import { AppRegistry, StyleSheet, Text, View, Image } from "react-native";
 
 //底部导航栏
 export default class BottomTabBar extends Component {
@@ -37,9 +25,9 @@ export default class BottomTabBar extends Component {
 
   render() {
     return (
-      <TabNavigator tabBarStyle={{ height: 0.12 * height }}>
+      <TabNavigator tabBarStyle={{ height: 78 }}>
         <TabNavigator.Item
-          title="钱包管理"
+          title="钱包"
           titleStyle={styles.tabText}
           selected={0 == this.state.selectIndex}
           renderIcon={() => (
@@ -60,14 +48,14 @@ export default class BottomTabBar extends Component {
         <TabNavigator.Item
           title="交易"
           titleStyle={styles.tabText}
-          selected={2 == this.state.selectIndex}
+          selected={1 == this.state.selectIndex}
           renderIcon={() => (
             <Image source={this.state.transferNormal} style={styles.icon} />
           )}
           renderSelectedIcon={() => (
             <Image source={this.state.transferSelected} style={styles.icon} />
           )}
-          onPress={() => this.setState({ selectIndex: 2 })}
+          onPress={() => this.setState({ selectIndex: 1 })}
         >
           <View style={{ flex: 1 }}>
             <LoadSmartContract
@@ -77,40 +65,36 @@ export default class BottomTabBar extends Component {
             />
           </View>
         </TabNavigator.Item>
-        {/* <TabNavigator.Item
-          title="已确认订单"
+        <TabNavigator.Item
+          title="聊天"
+          titleStyle={styles.tabText}
+          selected={2 == this.state.selectIndex}
+          renderIcon={() => (
+            <Image source={this.state.chatNormal} style={styles.icon} />
+          )}
+          renderSelectedIcon={() => (
+            <Image source={this.state.chatSelected} style={styles.icon} />
+          )}
+          onPress={() => this.setState({ selectIndex: 2 })}
+        >
+          <View style={{ flex: 1 }}>
+            <Chat />
+          </View>
+        </TabNavigator.Item>
+        <TabNavigator.Item
+          title="我的"
           titleStyle={styles.tabText}
           selected={3 == this.state.selectIndex}
           renderIcon={() => (
-            <Image source={this.state.contractNormal} style={styles.icon} />
+            <Image source={this.state.userNormal} style={styles.icon} />
           )}
           renderSelectedIcon={() => (
-            <Image source={this.state.contractSelected} style={styles.icon} />
+            <Image source={this.state.userSelected} style={styles.icon} />
           )}
           onPress={() => this.setState({ selectIndex: 3 })}
         >
           <View style={{ flex: 1 }}>
-            <LoadSmartContract1
-              ws={this.props.ws}
-              WalletSchema={this.props.WalletSchema}
-              contractState1={1}
-            />
-          </View>
-        </TabNavigator.Item> */}
-        <TabNavigator.Item
-          title="聊天"
-          titleStyle={styles.tabText}
-          selected={5 == this.state.selectIndex}
-          renderIcon={() => (
-            <Image source={this.state.shoppingNormal} style={styles.icon} />
-          )}
-          renderSelectedIcon={() => (
-            <Image source={this.state.shoppingSelected} style={styles.icon} />
-          )}
-          onPress={() => this.setState({ selectIndex: 5 })}
-        >
-          <View style={{ flex: 1 }}>
-            <Chat />
+            <MyInfo />
           </View>
         </TabNavigator.Item>
       </TabNavigator>
@@ -118,29 +102,29 @@ export default class BottomTabBar extends Component {
   }
   componentWillMount() {
     const { selectedColor, normalColor } = this.props;
-    Icon.getImageSource("md-basket", 50, normalColor).then(source =>
+    Icon.getImageSource("md-wallet", 50, normalColor).then(source =>
       this.setState({ walletNormal: source })
     );
-    Icon.getImageSource("md-basket", 50, selectedColor).then(source =>
+    Icon.getImageSource("md-wallet", 50, selectedColor).then(source =>
       this.setState({ walletSelected: source })
     );
-    Icon.getImageSource("md-swap", 50, normalColor).then(source =>
+    Icon.getImageSource("md-card", 50, normalColor).then(source =>
       this.setState({ transferNormal: source })
     );
-    Icon.getImageSource("md-swap", 50, selectedColor).then(source =>
+    Icon.getImageSource("md-card", 50, selectedColor).then(source =>
       this.setState({ transferSelected: source })
     );
-    Icon.getImageSource("md-filing", 50, normalColor).then(source =>
-      this.setState({ contractNormal: source })
+    Icon.getImageSource("md-chatboxes", 50, normalColor).then(source =>
+      this.setState({ chatNormal: source })
     );
-    Icon.getImageSource("md-filing", 50, selectedColor).then(source =>
-      this.setState({ contractSelected: source })
+    Icon.getImageSource("md-chatboxes", 50, selectedColor).then(source =>
+      this.setState({ chatSelected: source })
     );
-    Icon.getImageSource("md-planet", 50, normalColor).then(source =>
-      this.setState({ shoppingNormal: source })
+    Icon.getImageSource("md-contact", 50, normalColor).then(source =>
+      this.setState({ userNormal: source })
     );
-    Icon.getImageSource("md-planet", 50, selectedColor).then(source =>
-      this.setState({ shoppingSelected: source })
+    Icon.getImageSource("md-contact", 50, selectedColor).then(source =>
+      this.setState({ userSelected: source })
     );
   }
 }
@@ -155,8 +139,8 @@ const styles = StyleSheet.create({
     paddingBottom: 20
   },
   icon: {
-    width: 0.1 * width,
-    height: 0.1 * width,
+    width: 25,
+    height: 25,
     margin: 3
   },
   border: {
