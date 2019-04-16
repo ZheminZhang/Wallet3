@@ -3,19 +3,19 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-import './shim.js';
-import 'crypto'
-import BottomTabBar from './BottomTabBar'
-import JPushModule from 'jpush-react-native';
-import JMessage from 'jmessage-react-plugin';
-import Chat from './lib/ChatComponent'
-import httpRequest from './lib/src/httpRequest'
+import "./shim.js";
+import "crypto";
+import BottomTabBar from "./BottomTabBar";
+import JPushModule from "jpush-react-native";
+import JMessage from "jmessage-react-plugin";
+import Chat from "./lib/ChatComponent";
+import httpRequest from "./lib/src/httpRequest";
 
 //var ws = new WebSocket('ws://120.78.72.237:3000');
 //var ws = new WebSocket('ws://192.168.71.42:3000');
 //import { PropTypes } from 'react';
 //import PropTypes from 'prop-types'
-var ws = new WebSocket("ws://192.168.1.4:3000");
+var ws = new WebSocket("ws://192.168.0.104:3000");
 
 import React, { Component } from "react";
 import {
@@ -57,7 +57,11 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={{ flex: 1, justifyContent: "flex-end" }}>
-        <BottomTabBar httpRequest = {httpRequest} ws={ws} WalletSchema={WalletSchema} />
+        <BottomTabBar
+          httpRequest={httpRequest}
+          ws={ws}
+          WalletSchema={WalletSchema}
+        />
       </View>
     );
   }
