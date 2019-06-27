@@ -33,7 +33,8 @@ const WalletSchema = {
   }
 };
 JMessage.init({
-  appkey: "4dc08da5773df4784e216e5c",
+  // appkey: "4dc08da5773df4784e216e5c",
+  appkey: "1f1558cafbf2dd3946981f0b",
   isOpenMessageRoaming: false, // 是否开启消息漫游，默认不开启
   isProduction: true // 是否为生产模式
 });

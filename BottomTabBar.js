@@ -7,7 +7,7 @@ import Chat from "./lib/ChatComponent";
 //import JMessageTest from "./ChatUIComponent";
 
 import React, { Component } from "react";
-import { AppRegistry, StyleSheet, Text, View, Image } from "react-native";
+import { StyleSheet, View, Image } from "react-native";
 
 //底部导航栏
 export default class BottomTabBar extends Component {
@@ -39,10 +39,7 @@ export default class BottomTabBar extends Component {
           onPress={() => this.setState({ selectIndex: 0 })}
         >
           <View style={{ flex: 1 }}>
-            <WalletManagement
-              ws={this.props.ws}
-              WalletSchema={this.props.WalletSchema}
-            />
+            <WalletManagement WalletSchema={this.props.WalletSchema} />
           </View>
         </TabNavigator.Item>
         <TabNavigator.Item
@@ -59,7 +56,6 @@ export default class BottomTabBar extends Component {
         >
           <View style={{ flex: 1 }}>
             <LoadSmartContract
-              ws={this.props.ws}
               WalletSchema={this.props.WalletSchema}
               contractState={0}
             />

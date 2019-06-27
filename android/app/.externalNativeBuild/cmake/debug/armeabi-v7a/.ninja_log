@@ -1,5 +1,9 @@
 # ninja log v5
-0	77	0	CMakeFiles/native-lib.dir/scrypt.cpp.o	f4c9c8c4b2b0159d
-1	88	0	CMakeFiles/native-lib.dir/fastpbkdf2.cpp.o	c9826f5bc42fefd4
-0	237	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e000e03b81614136
-237	320	0	/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c4e2e35a1b8cc86f
+0	68	0	CMakeFiles/native-lib.dir/scrypt.cpp.o	f4c9c8c4b2b0159d
+1	80	0	CMakeFiles/native-lib.dir/fastpbkdf2.cpp.o	c9826f5bc42fefd4
+0	219	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e000e03b81614136
+220	287	0	/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c4e2e35a1b8cc86f
+3	73	0	CMakeFiles/native-lib.dir/scrypt.cpp.o	f4c9c8c4b2b0159d
+3	93	0	CMakeFiles/native-lib.dir/fastpbkdf2.cpp.o	c9826f5bc42fefd4
+3	274	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	e000e03b81614136
+274	384	0	/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	c4e2e35a1b8cc86f

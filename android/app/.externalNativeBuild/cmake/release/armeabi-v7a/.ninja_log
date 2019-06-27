@@ -1,0 +1,5 @@
+# ninja log v5
+1	192	0	CMakeFiles/native-lib.dir/scrypt.cpp.o	3f87b48bf8be99d7
+1	265	0	CMakeFiles/native-lib.dir/fastpbkdf2.cpp.o	bc80e3e0fed6d1ba
+0	362	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	832647b22ee320dd
+363	494	0	/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	9c805e0aadbc13fd

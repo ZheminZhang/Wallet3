@@ -1,0 +1,5 @@
+# ninja log v5
+1	412	0	CMakeFiles/native-lib.dir/scrypt.cpp.o	fa152279aeb642e3
+1	428	0	CMakeFiles/native-lib.dir/fastpbkdf2.cpp.o	93df6e00c0736ef3
+0	534	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	41730c7a01e7bc40
+535	646	0	/Users/zhangzhemin/RNProjects/Wallet3/android/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so	dc226109cee5351c
